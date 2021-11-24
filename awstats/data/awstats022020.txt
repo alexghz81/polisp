@@ -1,0 +1,1329 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2615                
+POS_VISITOR 21803               
+POS_DAY 45154               
+POS_DOMAIN 3509                
+POS_LOGIN 4189                
+POS_ROBOT 4344                
+POS_WORMS 4517                
+POS_EMAILSENDER 4648                
+POS_EMAILRECEIVER 4791                
+POS_SESSION 46078               
+POS_SIDER 46296               
+POS_FILETYPES 4926                
+POS_OS 5014                
+POS_BROWSER 5070                
+POS_SCREENSIZE 7735                
+POS_UNKNOWNREFERER 7809                
+POS_UNKNOWNREFERERBROWSER 10063               
+POS_ORIGIN 10546               
+POS_SEREFERRALS 10686               
+POS_PAGEREFS 10830               
+POS_SEARCHWORDS 10978               
+POS_KEYWORDS 11130               
+POS_MISC 2279                
+POS_ERRORS 11189               
+POS_CLUSTER 4045                
+POS_SIDER_404 11311               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200301000303 291 62681 9820023444633
+FirstTime 20200201000331
+LastTime 20200229235622
+LastUpdate 20200301065652 291 0 290 0 0
+TotalVisits 4978                
+TotalUnique 578                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 578                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 321 321 15165921 42 128 56843
+1 295 295 14006247 33 91 5622
+2 278 278 13260600 38 110 55420
+3 256 256 12412822 49 75 10385
+4 296 296 14075823 37 66 5434
+5 276 276 13410000 96 157 27317
+6 276 276 13101479 32 32 5211
+7 290 290 13923840 37 138 6846
+8 284 284 13517415 38 156 7729
+9 304 304 14664353 36 463 7728
+10 258 258 12540378 44 170 7645
+11 305 305 14199390 38 202 6485
+12 270 270 12788533 34 530 55389
+13 304 304 14321717 49 484 78901
+14 292 292 13645223 39 119 55638
+15 277 277 13497851 26 527 53936
+16 258 258 12545215 30 293 4585
+17 264 264 12747663 35 139 55578
+18 280 280 13405117 56 229 15017
+19 313 313 14822081 59 144 82422
+20 285 285 13699990 43 67 56834
+21 322 322 15522646 61 91 11146
+22 332 332 15905425 47 121 106845
+23 277 277 12994233 29 203 4781
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+ru 5641 5641 273213243
+ua 483 483 23390576
+us 319 319 13629677
+nl 83 83 2320707
+de 74 74 3363667
+ip 44 44 1981022
+si 34 34 1677560
+it 27 27 1332180
+ca 26 26 995756
+lt 22 22 1085480
+rs 2 2 69704
+gb 18 18 888120
+jp 3 3 148020
+fr 9 9 339642
+za 2 2 98680
+cn 16 16 789440
+sc 3 3 90068
+br 3 3 148020
+by 3 3 119044
+hn 1 1 49340
+co 4 4 139408
+ch 8 8 394720
+se 16 16 685022
+kz 2 2 69704
+th 1 1 49340
+in 1 1 49340
+cz 11 11 542740
+zz 21 21 931722
+ro 20 20 792580
+md 16 16 789440
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 12 534128 20200229003840 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 6885 330172058 0 0
+php 28 1904 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 2
+ 33
+Unknown 5507
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 142
+chrome66.0.3359.117 4
+netscape0.91 15
+chrome62.0.3202.89 1
+chrome74.0.3729.131 1
+chrome49.0.2623.75 10
+chrome59.0.3071.104 1
+msie8.0 3
+chrome45.0.2454.94 1
+chrome35.0.1916.47 1
+chrome51.0.2704.103 8
+firefox40.0 1
+netscape4.79 3
+netscape4.61 12
+chrome42.0.2311.154 1
+firefox4.0 87
+chrome47.0.2526.80 11
+chrome67.0.3396.79 23
+msie7.0 24
+firefox71.0 1
+msie5.0 3
+chrome41.0.2228.0 4
+chrome67.0.3396.99 36
+chrome43.0.2327.5 2
+chrome50.4.2661.102 3
+chrome66.0.3359.170 32
+safari9.0.2 1
+chrome72.0.3626.121 2
+opera9.80 10
+chrome71.0.3578.141 2
+chrome60.0.3112.50 1
+firefox15.0 1
+firefox17.0 9
+chrome80.0.3987.122 1
+chrome70.0.3538.102 9
+firefox64.0 7
+chrome65.0.3325.146 4
+msie9.0 7
+firefox56.0 2
+chrome80.0.3987.106 1
+safari12.0 1
+msie3.02 3
+chrome79.0.3945.88 5
+chrome74.0.3729.169 3
+chrome79.0.3945.136 10
+chrome76.0.3809.132 3
+chrome70.0.3538.77 6
+chrome79.0.3945 1
+chrome50.0.2661.102 16
+opera7.54 3
+firefox54.0 2
+chrome49.0.2623.112 4
+firefox67.0 1
+netscape3.0 6
+chrome21.0.1200.0 1
+chrome65.0.3325.181 97
+chrome80.0.3987.119 2
+chrome69.0.3497.81 1
+chrome62.0.3202.75 2
+chrome48.0.2564.109 2
+chrome78.0.3904.87 23
+safari13.0.5 8
+msie6.0 182
+chrome41.0.2272.96 36
+chrome54.0.2840.98 1
+chrome73.0.3683.90 1
+firefox70.0 18
+netscape0.6 30
+chrome80.0.3987.116 5
+safari12.1.2 1
+chrome80.0.3987.100 2
+firefox48.0 1
+firefox46.0 1
+chrome34.0.1847.132 6
+chrome76.0.3809.100 2
+chrome61.0.3163.100 2
+chrome34.0.1847.116 7
+chrome26.0.1410.65 1
+chrome52.0.2744.43 1
+safari13.0 1
+chrome62.0.3202.94 1
+chrome69.0.3497.100 1
+chrome60.0.3112.90 2
+safari8.0.2 3
+firefox69.0 2
+chrome58.0.3029.110 5
+firefox52.0 1
+chrome67.0.3396.87 72
+firefox45.0 4
+firefox28.0 5
+chrome28.0.1500.95 11
+chrome79.0.3945.117 8
+ 142
+firefox72.0 1
+chrome79.0.3945.130 27
+chrome79.0.3945.93 2
+chrome80.0.3987.99 4
+chrome64.0.3282.140 6
+firefox59.0 1
+chrome52.0.2743.116 13
+chrome55.0.2883.95 1
+firefox3.6.25 1
+safari10.0 1
+firefox3.6.2 1
+firefox57.0 2
+opera9.00 26
+opera7.11 3
+chrome72.0.3602.2 2
+chrome75.0.3770.143 1
+chrome51.0.2704.106 22
+chrome39.0.2171.95 1
+chrome80.0.3987.87 2
+chrome66.0.3359.181 30
+chrome51.0.2704.64 2
+chrome67.0.3396.62 4
+chrome79.0.3945.94 1
+chrome68.0.3440.106 37
+chrome40.0.2214.93 1
+chrome73.0.3683.86 39
+chrome78.0.3904.108 1
+chrome27.0.1453.93 1
+chrome50.0.2661.94 2
+chrome71.0.3578.99 1
+chrome34.0.1847.131 2
+firefox47.0 4
+safari13.0.4 3
+firefox25.0 1
+chrome75.0.3770.100 6
+opera9.01 9
+netscape5.0 7
+chrome75.0.3770.142 6
+chrome34.0.1847.137 2
+firefox15.0.1 4
+firefox63.0 1
+chrome39.0.2171.71 2
+chrome46.0.2486.0 1
+opera7.60 3
+firefox56.2.6 1
+firefox60.0 2
+chrome71.0.3578.98 2
+safari8.0 15
+chrome68.0.3440.84 5
+Unknown 33
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 30
+Mozilla/5.0_(compatible;_Nimbostratus-Bot/v1.3.2;_http://cloudsystemnetworks.com) 20200221141559
+Mozilla/5.0_(compatible;_DotBot/1.1;_http://www.opensiteexplorer.org/dotbot,_help@moz.com) 20200225025650
+Python-urllib/3.6 20200226002650
+Mozilla/5.0_(compatible;_WebDataStats/1.0_;__https://webdatastats.com/policy.html) 20200218184311
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots)_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/51.0.2704.106 20200229190515
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__http://megaindex.com/crawler) 20200205141330
+Scrapy/1.7.2_(_https://scrapy.org) 20200207193631
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots) 20200229154115
+\ 20200227113848
+Mozilla/5.0_(compatible;_statdom.ru/Bot;__http://statdom.ru/bot.html) 20200212100753
+Python-urllib/3.7 20200224015801
+Mozilla/5.0_(compatible;_MJ12bot/v1.4.8;_http://mj12bot.com/) 20200224094647
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20200229232944
+Mozilla/5.0_(compatible;_Konturbot/1.0;__http://kontur.ru;_n.ilinykh@skbkontur.ru) 20200225201357
+User-Agent\ 20200208224942
+Go-http-client/1.1 20200229164655
+python-requests/2.22.0 20200226002649
+Mozilla/5.0_(compatible;_LetsearchBot/1.0;__https://letsearch.ru/bots) 20200205200808
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200215142846
+Mozilla/5.0_(compatible;_BackupLand/1.0;_https://go.backupland.com/;_Domain_check_for_viruses;) 20200229215347
+Mozilla/5.0_(compatible;_AhrefsBot/6.1;__http://ahrefs.com/robot/) 20200229184849
+Mozilla/5.0_(compatible;_SemrushBot/6~bl;__http://www.semrush.com/bot.html) 20200229224601
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20200228191009
+Mozilla/5.0_(compatible;_StatOnlineRuBot/1.0) 20200216100120
+Mozilla/5.0_(compatible;_openstat.ru/Bot) 20200212223807
+Internet-structure-research-project-bot 20200223224712
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots_yabs01) 20200229235622
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20200228160551
+Xenu_Link_Sleuth/1.3.8 20200221030118
+Google-Adwords-Instant_(_http://www.google.com/adsbot.html) 20200220141625
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.22.0 20200226002649
+Go-http-client/1.1 20200229164655
+Python-urllib/3.6 20200226002650
+User-Agent\ 20200208224942
+Python-urllib/3.7 20200224015801
+Scrapy/1.7.2_(_https://scrapy.org) 20200207193631
+\ 20200227113848
+Google-Adwords-Instant_(_http://www.google.com/adsbot.html) 20200220141625
+Xenu_Link_Sleuth/1.3.8 20200221030118
+Internet-structure-research-project-bot 20200223224712
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5923 5923
+From1 6 6
+From2 0 0
+From3 0 0
+From4 984 984
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 1 49340
+404 4538 200269
+503 23 0
+302 157 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 269
+/maps/vt 14 http://polisp.ru/
+//wp/wp-login.php 1 -
+/images/man@2x.png 88 https://polisp.ru/
+/assets/ 1 -
+//responsivefilemanager/plugin.min.js 1 -
+//wp-text/themes/switchblade/framework/_scripts/valums_uploader/php.php 1 -
+/backup/ 1 -
+/administrator/language/en-GB/install.xml 2 -
+/img/logo/6@2x.jpg 152 https://polisp.ru/
+//emailmarketer/admin/includes/js/tiny_mce/tiny_mce.js 1 -
+//DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 1 -
+/static/common.css 2 http://polisp.ru/static/common.css
+/images/man2@2x.png 86 https://polisp.ru/
+/admin/login 1 -
+//templates/default/jQuery-File-Upload/server/php/index.php 1 -
+//js/server/php/index.php 1 -
+/tmp/ 1 -
+//interspire/admin/includes/js/tiny_mce/tiny_mce.js 1 -
+/.well-known/assetlinks.json 6 -
+//assets/js/filemanager/plugin.min.js 1 -
+//admin/filemanager/plugin.min.js 1 -
+/dev/ 1 -
+/indy/indy.css 2 http://polisp.ru/indy/indy.css
+//wp/wp-text/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+//admin/plugin.min.js 1 -
+//tinymce/js/filemanager/plugin.min.js 1 -
+/wp/ 1 -
+/js/admin.js 3 -
+//public/js/tinymce/plugins/filemanager/plugin.js 1 -
+/robots.txt 582 -
+/v2/ 1 -
+/admin.php 3 http://polisp.ru/admin.php
+/modules/mod_stats.xml 2 http://polisp.ru/modules/mod_stats.xml
+/plugins/system/debug/debug.xml 2 -
+//wp-text/plugins/evarisk/include/lib/actionsCorrectives/activite/uploadPhotoApres.php 1 -
+/core/tpl/admin/default.tpl.html 1 -
+/edc_admin/Login/Style.css 2 http://polisp.ru/edc_admin/Login/Style.css
+/HqY08STScvWp9YkI9y 1 -
+//wp-text/themes/versatile/lib/includes/timthumb.php 1 -
+/.well-known/security.txt 2 -
+//wp-text/themes/modularity/includes/timthumb.php 1 -
+//plugins/jquery-file-upload/server/php/index.php 1 -
+//phpformbuilder/plugins/filemanager/plugin.min.js 1 -
+/admin/textolite.css 2 http://polisp.ru/admin/textolite.css
+//javascript/valums/server/php.php 1 -
+/site/ 1 -
+//assets/lib/tinymce/filemanager/plugin.min.js 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+//novi/admin/engine/lib/valums/server/php.php 1 -
+//shop/filemanager/plugin.min.js 1 -
+//File-Upload/server/php/index.php 1 -
+/images/metro@2x.png 153 https://polisp.ru/
+/admin 2 http://polisp.ru/admin
+/img/logo/1@2x.jpg 277 https://polisp.ru/
+/.env 11 -
+//old/wp-login.php 1 -
+//wp-text/plugins/gallery-plugin/upload/php.php 1 -
+//wp-text/plugins/wp-checkout.bk/vendors/timthumb.php 1 -
+/img/logo/7@2x.jpg 98 https://polisp.ru/
+/core/xpdo/changelog.txt 1 -
+/images/man6@2x.png 86 https://polisp.ru/
+//js/tinymce4/plugins/filemanager/plugin.min.js 1 -
+/bitrix/admin/ 1 -
+/vendor/phpunit/Util/PHP/eval-stdin.php 1 -
+//phpminiadmin.php 1 -
+/phpunit/Util/PHP/eval-stdin.php 1 -
+//wp-text/themes/lightspeed/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+//newsite/wp-admin/install.php 1 -
+//cmd.php 1 -
+//modules/megaproduct/upload/index.php 1 -
+/administrator/ 4 -
+/img/logo/5@2x.jpg 149 https://polisp.ru/
+/_admin/ 1 -
+/administrator 2 http://polisp.ru/administrator
+/insur/sogl.jpg 1 http://go.mail.ru/search_images
+/cms/ 3 http://polisp.ru/cms/
+/img/logo/16@2x.jpg 152 https://polisp.ru/
+/manager 2 http://polisp.ru/manager
+//wpnew/wp-admin/install.php 1 -
+//wp-admin/install.php 1 -
+/images/metro-s@2x.png 158 https://polisp.ru/
+/web/ 1 -
+/hostcmsfiles/main.js 1 -
+//timthumb/timthumb.php 1 -
+/blog/ 1 -
+//assets/global/plugins/File-Upload/server/php/index.php 1 -
+/img/logo/15@2x.jpg 148 https://polisp.ru/
+/scripts/admin/popup.js 2 http://polisp.ru/scripts/admin/popup.js
+/wordpress/ 1 -
+//javascript/filemanager/plugin.min.js 1 -
+/insur/maks.png 1 http://go.mail.ru/search_images
+/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/home/ 1 -
+//new/wp-admin/install.php 1 -
+/img/logo/11@2x.jpg 98 https://polisp.ru/
+/insur/vsk.jpg 1 http://go.mail.ru/search_images
+//server/php/index.php 1 -
+/images/editor/separator.gif 2 -
+/img/logo/14@2x.jpg 149 https://polisp.ru/
+//wp-text/themes/saico/framework/_scripts/valums_uploader/php.php 1 -
+/modules 2 http://polisp.ru/modules
+/user/register 1 -
+/2018/ 1 -
+/bk/ 1 -
+/wp2/ 1 -
+/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+/admin/ 2 -
+/resource/js/corelang.js 2 http://polisp.ru/resource/js/corelang.js
+//modules/hdi/hdi-tinymce/filemanager/plugin.min.js 1 -
+/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/img/logo/9@2x.jpg 98 https://polisp.ru/
+/images/page1_3.png 1 http://go.mail.ru/search_images
+/bc/ 2 http://polisp.ru/bc/
+/user/preminder 1 -
+/js/api.js 1 -
+//upload.php 2 -
+/etm/indy.css 2 http://polisp.ru/etm/indy.css
+/img/logo/3@2x.jpg 147 https://polisp.ru/
+//timthumb.php 1 -
+/static/cartreminder.js 2 http://polisp.ru/static/cartreminder.js
+/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/.aws/credentials 7 -
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+//wp-text/plugins/user-meta/framework/helper/uploader.php 1 -
+/img/logo/13@2x.jpg 150 https://polisp.ru/
+/temp/ 1 -
+/wp-login.php 17 -
+//filemanager/plugin.min.js 1 -
+/images/man5@2x.png 85 https://polisp.ru/
+//shop/admin/filemanager/plugin.min.js 1 -
+//thumb.php 1 -
+/wp-admin/admin-ajax.php 1 -
+/images/logo@2x.png 106 https://polisp.ru/
+/lib/phpunit/src/Util/PHP/eval-stdin.php 1 -
+//wp-text/plugins/wp-checkout/vendors/timthumb.php 1 -
+/store_closed.html 1 -
+//assets/admin/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/vendor/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/2019/ 1 -
+/demo/ 1 -
+/adm/css/errors.css 2 http://polisp.ru/adm/css/errors.css
+//options.php 1 -
+/shop_content.php 1 -
+/netcat/ 2 http://polisp.ru/netcat/
+/manager/includes/accesscontrol.inc.php 2 -
+//assets/global/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/lib/phpunit/Util/PHP/eval-stdin.php 1 -
+//wp-text/plugins/flipbook/php.php 1 -
+//tinymce/filemanager/plugin.min.js 1 -
+/cms/lang/ru_utf8/css/sbIndex.css 3 http://polisp.ru/cms/lang/ru_utf8/css/sbIndex.css
+/assets/modules/docmanager/js/docmanager.js 1 -
+/administrator/help/en-GB/toc.json 2 -
+//assets/libs/tinymce/plugins/filemanager/plugin.min.js 1 -
+/engine/classes/js/dle_js.js 2 http://polisp.ru/engine/classes/js/dle_js.js
+//admin/tinymce/filemanager/plugin.min.js 1 -
+//theme/plugins/jquery-file-upload/server/php/index.php 1 -
+/polisp1_files/msk2.png 1 -
+//Install/InstallWizard.aspx 1 -
+//wp2/wp-login.php 1 -
+/adm/ 2 http://polisp.ru/adm/
+/admin/includes/general.js 2 -
+/login 2 http://polisp.ru/login
+//getsimple/plugins/items/uploader/server/php.php 1 -
+/vendor/phpunit/phpunit/build.xml 2 -
+/css/admin/layout.css 2 http://polisp.ru/css/admin/layout.css
+//assets/backend/tinymce/plugins/filemanager/plugin.min.js 1 -
+/wp-config.php 1 -
+/wp1/ 1 -
+//admin/includes/js/tiny_mce/tiny_mce.js 1 -
+//wp-text/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+/wp-includes/js/jquery/jquery.js 2 -
+//wordpress/wp-text/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+//tt.php 1 -
+//admin/timthumb.php 1 -
+//js/filemanager/plugin.min.js 1 -
+//public/javascript/filemanager/plugin.min.js 1 -
+//admin/includes/filemanager/plugin.min.js 1 -
+/modules/dashproducts/CHANGELOG.txt 2 http://polisp.ru/modules/dashproducts/CHANGELOG.txt
+/images/metro-yel@2x.png 157 https://polisp.ru/
+//core/third-party/filemanager/plugin.min.js 1 -
+/license.php 4 -
+/password_double_opt.php 1 -
+//2020/wp-login.php 1 -
+/lib/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+//wp-text/themes/bigfeature/library/timthumb/timthumb.php 2 -
+/icms 2 http://polisp.ru/icms
+/img/logo/4@2x.jpg 150 https://polisp.ru/
+/img/logo/2@2x.jpg 281 https://polisp.ru/
+//ajaxupload.php 1 -
+//assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/magento_version/ 1 -
+//.env 1 -
+/phpshop/admpanel/ 1 -
+//tiny_mce/jscripts/tiny_mce/plugins/openmanager/php/fileactions.php 1 -
+//components/com_creativecontactform/fileupload/index.php 1 -
+/assets/index.html 1 -
+//wp-text/plugins/sexy-contact-form/includes/fileupload/index.php 1 -
+/js/header-rollup-554.js 2 -
+/old/ 1 -
+//public/theme/server/fileupload/index.php 1 -
+//jQuery-File-Upload/server/php/index.php 1 -
+/vamshop.txt 1 -
+/umbraco 1 -
+/img/logo/8@2x.jpg 99 https://polisp.ru/
+//js/tinymce/plugins/filemanager/plugin.min.js 1 -
+/engine/engine.php 1 -
+/img/logo/12@2x.jpg 99 https://polisp.ru/
+/core/packages/.gitignore 1 -
+/cms/admin/index.php 1 -
+/main/ 1 -
+/new/ 1 -
+//wp-text/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+/sitemap.xml 7 http://go.mail.ru/search_images
+/admin/login.php 1 -
+//assets/bower_components/filemanager/plugin.min.js 1 -
+//doajaxfileupload.php 1 -
+/z0Gd2Vd8FN4NccgpACOIX 1 -
+//TimThumb.php 1 -
+/ru/admin/login.html 2 http://polisp.ru/ru/admin/login.html
+/misc/ajax.js 2 -
+//wp-admin/admin-ajax.php 2 -
+/contacts 1 -
+//wordpress/wp-admin/install.php 1 -
+/admin/cms/login/ 2 http://polisp.ru/admin/cms/login/
+/polisp1_files/ad_block.swf 1 -
+/test/ 1 -
+//plugins/vmcustom/photoupload/assets/server/php/index.php 1 -
+//2019/wp-login.php 1 -
+/js/easy.php 1 -
+/images/man4@2x.png 87 https://polisp.ru/
+/img/logo/10@2x.jpg 99 https://polisp.ru/
+//wp-contacts.php 1 -
+//cms/filemanager/plugin.min.js 1 -
+/include/ajax/textPreview.php 1 -
+//modules/homepagebanners/uploadimage.php 1 -
+/ads.txt 4 -
+//admin/js/filemanager/plugin.min.js 1 -
+/skins/simpla_blue/style.css 2 http://polisp.ru/skins/simpla_blue/style.css
+/includes/init.php 1 -
+/backend/backend/auth/signin 1 -
+/images/man3@2x.png 87 https://polisp.ru/
+/typo3/border.html 1 -
+//wp-text/themes/ninetofive/scripts/doajaxfileupload.php 1 -
+/admin/view/javascript/common.js 4 -
+//index.php 1 -
+//wp-text/themes/eptonic/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+//wp-text/themes/newspro/timthumb.php 1 -
+//blog/wp-admin/install.php 1 -
+/40LARNGBncvHBUPxFY2zW4SWW 1 -
+/admin/events/last/ 1 -
+/v1/ 1 -
+/registration/ 1 -
+//assets/js/bluimp/server/php/index.php 1 -
+//public/filemanager/plugin.min.js 1 -
+//wp1/wp-login.php 1 -
+/info/license.txt 1 -
+/netcat/admin/ 1 -
+//admin/core/third-party/filemanager/plugin.min.js 1 -
+/manager/ 3 -
+/page=order 1 http://go.mail.ru/search_images
+//address.php 1 -
+/blog/license.txt 1 -
+/mscms/ 2 http://polisp.ru/mscms/
+/mg-admin/ 1 -
+//admin/jQuery-File-Upload/server/php/index.php 1 -
+/images/metro-z@2x.png 156 https://polisp.ru/
+//tinymce/responsivefilemanager/plugin.min.js 1 -
+/portal/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 578
+5.255.253.30 186 186 9161792 20200229202751
+178.154.171.126 184 184 9019343 20200229235622
+141.8.183.49 183 183 8929282 20200229190515
+95.108.213.26 179 179 8831860 20200229223128
+141.8.142.22 174 174 8585160 20200226123752
+141.8.183.6 167 167 8192796 20200229213314
+95.108.213.41 165 165 8099484 20200229211914
+141.8.142.101 164 164 8091760 20200229231405
+37.9.113.143 163 163 8042420 20200229164631
+141.8.183.66 161 161 7943740 20200229225836
+66.249.65.127 2 2 98680 20200220111434
+64.233.172.97 1 1 49340 20200220141625
+158.255.128.250 2 2 40728 20200225143658
+141.8.183.84 132 132 6512880 20200229214628
+5.188.84.95 2 2 98680 20200227202654
+54.36.148.13 1 1 28308 20200224222613
+42.236.10.116 1 1 49340 20200206085153
+31.171.194.230 2 2 40728 20200219021244
+109.245.221.102 2 2 69704 20200217210958
+141.8.132.19 75 75 3658066 20200219162529
+87.250.224.212 1 1 28308 20200226181628
+194.58.113.224 2 2 98680 20200216100120
+209.17.96.114 1 1 49340 20200214150921
+37.120.156.12 2 2 98680 20200218213128
+207.46.13.98 4 4 148020 20200227144605
+95.163.255.19 2 2 28756 20200229231711
+66.249.69.63 1 1 49340 20200213050539
+5.9.155.37 1 1 49340 20200205063707
+194.34.133.196 4 4 197360 20200205065837
+31.173.94.89 3 3 69704 20200226131951
+18.233.200.153 1 1 49340 20200226200822
+216.244.66.200 4 4 184936 20200220021018
+88.198.164.134 1 1 49340 20200205171359
+2a02:6b8:0:807:6ea1:eaca:be92:f294 8 8 394720 20200228165136
+91.193.177.216 1 1 49340 20200224150106
+37.203.16.99 2 2 98680 20200214235505
+34.223.110.206 1 1 49340 20200215124040
+199.244.88.131 1 1 49340 20200218135006
+37.113.229.131 2 2 98680 20200209195559
+5.255.174.141 2 2 98680 20200219001746
+94.77.76.228 1 1 49340 20200206121536
+62.210.172.215 9 9 339642 20200228082608
+207.46.13.234 1 1 0 20200201020944
+46.229.168.154 2 2 103409 20200228121340
+37.9.113.147 4 4 197360 20200229134938
+130.0.57.73 4 4 197360 20200222060904
+209.17.96.58 1 1 49340 20200218175854
+104.245.144.60 1 1 49340 20200214032159
+3.135.183.148 5 5 217724 20200215182616
+23.129.64.182 3 3 148020 20200203233724
+46.17.203.253 2 2 69704 20200225201357
+2a00:1fa0:467f:4062:bcc8:b5af:96db:4e21 1 1 49340 20200227133447
+94.140.142.4 1 1 49340 20200214180437
+5.19.140.114 1 1 49340 20200211073555
+178.154.171.123 1 1 49340 20200226143052
+66.249.66.199 1 1 49340 20200221070626
+54.36.148.240 1 1 75101 20200226055101
+34.222.180.220 1 1 49340 20200224115758
+176.59.45.96 2 2 77278 20200220133908
+2.92.40.198 9 9 339642 20200213114124
+141.8.142.189 154 154 7598360 20200229214015
+89.163.143.8 3 3 148020 20200204021829
+46.246.65.158 2 2 98680 20200229221038
+54.36.149.81 1 1 49340 20200207192828
+178.154.171.82 147 147 7252980 20200229224500
+66.249.72.26 1 1 49340 20200210135433
+199.249.230.74 3 3 148020 20200229001943
+212.109.220.62 21 21 931722 20200202222448
+89.178.70.183 2 2 98680 20200224015801
+54.36.150.146 1 1 31332 20200212172046
+194.34.133.197 2 2 98680 20200226060444
+109.169.253.68 3 3 119044 20200220075310
+54.144.239.69 2 2 98680 20200226092138
+185.141.10.67 1 1 49340 20200226071436
+46.0.111.214 45 45 1698210 20200216015123
+46.242.10.38 2 2 80672 20200226153738
+5.180.136.33 2 2 98680 20200211061909
+176.99.225.140 2 2 77278 20200208012431
+18.218.58.5 1 1 49340 20200203202906
+179.162.6.248 1 1 49340 20200219224920
+178.120.70.113 2 2 69704 20200216000652
+212.118.37.45 1 1 49340 20200206124407
+107.6.171.130 2 2 98680 20200210170811
+54.36.189.105 3 3 148020 20200215143001
+195.62.62.247 2 2 40728 20200217110245
+165.227.101.115 9 9 339642 20200211073043
+194.135.92.112 1 1 49340 20200229002944
+148.251.186.75 1 1 49340 20200208215657
+3.210.184.0 1 1 49340 20200224202942
+109.184.133.154 1 1 49340 20200208014301
+94.242.54.22 2 2 98680 20200224152227
+37.9.113.161 149 149 7351660 20200229210345
+196.52.43.74 1 1 49340 20200220185930
+37.147.121.101 1 1 49340 20200204131035
+66.249.75.224 1 1 49340 20200215163755
+37.9.113.163 8 8 394720 20200229163446
+207.46.13.173 1 1 49340 20200214024539
+79.111.28.17 2 2 98680 20200226002650
+185.253.97.251 6 6 296040 20200217133120
+46.118.123.239 89 89 4391260 20200227174958
+46.229.168.144 2 2 136 20200228145607
+157.55.39.156 2 2 49340 20200217130632
+94.103.91.189 2 2 98680 20200206102906
+46.188.98.10 12 12 244368 20200229121532
+66.249.66.47 6 6 347562 20200228143608
+46.229.168.149 2 2 28376 20200229064047
+141.8.142.149 4 4 197360 20200214003729
+85.173.144.118 4 4 139408 20200218123411
+84.17.49.153 2 2 98680 20200225023922
+178.175.130.250 4 4 197360 20200219044019
+46.229.168.134 6 6 110039 20200224194435
+5.228.207.149 1 1 49340 20200228005638
+157.230.30.126 6 6 296040 20200204111051
+66.240.236.119 1 1 49340 20200213123648
+54.187.45.50 1 1 49340 20200229164655
+176.74.192.99 10 10 388982 20200207193631
+95.163.255.15 2 2 98680 20200207112648
+66.249.65.124 1 1 49340 20200220081733
+2a00:1fa0:4415:ddfe:e0b1:7a8:4db0:9e75 1 1 49340 20200229104721
+95.163.255.10 1 1 0 20200203065656
+206.123.139.77 2 2 40728 20200206230025
+138.197.3.233 9 9 339642 20200210201737
+2001:6d0:ffc8:a0e9:: 1 1 49340 20200227113848
+77.37.226.109 1 1 49340 20200203103346
+95.163.255.12 5 5 79634 20200227180727
+91.228.236.139 1 1 49340 20200213191003
+176.59.49.44 1 1 49340 20200212164733
+34.239.240.61 1 1 49340 20200209182716
+185.86.93.10 1 1 49340 20200218184311
+141.8.142.167 157 157 7746380 20200229234817
+46.229.168.145 3 3 98748 20200222101048
+3.20.232.238 1 1 49340 20200217201455
+66.249.75.249 1 1 49340 20200214192702
+54.36.148.192 1 1 49340 20200226151831
+207.180.225.4 1 1 49340 20200212101037
+2a02:6b8:0:1a33:8ca8:91fa:d74b:2965 8 8 394720 20200229154115
+66.249.75.228 1 1 0 20200215202100
+91.221.109.101 3 3 148020 20200216172834
+210.52.224.25 1 1 49340 20200226122110
+46.229.168.130 5 5 131483 20200221133642
+176.62.105.223 2 2 69704 20200204211438
+151.80.39.60 11 11 542740 20200229014147
+94.77.76.166 1 1 49340 20200206121531
+141.8.188.64 28 28 1381520 20200229135636
+141.8.183.18 127 127 6266180 20200221044825
+66.249.72.1 2 2 31332 20200209162546
+207.200.8.182 5 5 251429 20200216123558
+209.17.96.90 1 1 49340 20200207140111
+141.8.183.204 145 145 7084156 20200229171823
+66.249.66.197 1 1 49340 20200223093822
+66.240.192.138 1 1 49340 20200210214006
+46.229.168.139 2 2 28824 20200229224601
+77.83.173.70 9 9 339642 20200212095420
+185.103.255.246 5 5 246700 20200202005902
+95.163.255.50 2 2 98680 20200202140605
+178.175.130.245 2 2 98680 20200219012809
+185.220.101.24 3 3 148020 20200219194311
+107.6.183.226 1 1 49340 20200228183021
+157.55.39.77 1 1 49340 20200201073737
+178.175.132.162 8 8 394720 20200207050405
+46.229.168.140 2 2 59640 20200212202300
+45.55.238.74 9 9 339642 20200207040411
+89.187.168.180 2 2 98680 20200212234529
+109.252.80.99 1 1 49340 20200220214808
+18.206.135.93 1 1 49340 20200223182253
+31.173.30.40 2 2 98680 20200227004513
+178.154.171.78 23 23 1116812 20200228143641
+188.64.170.86 9 9 339642 20200216155302
+37.112.171.224 2 2 98680 20200215165948
+157.55.39.230 1 1 49340 20200226235305
+66.249.75.254 1 1 49340 20200227100730
+141.8.183.12 152 152 7499680 20200229232109
+198.50.253.44 3 3 148020 20200228195849
+45.80.68.68 1 1 49340 20200217065241
+151.80.39.140 11 11 542740 20200229172646
+217.144.172.250 1 1 49340 20200201003101
+35.170.78.240 1 1 49340 20200206202326
+5.188.210.81 9 9 675909 20200207185136
+66.249.65.215 1 1 49340 20200219222806
+185.12.124.78 17 17 838780 20200229215347
+54.36.148.179 1 1 49340 20200216124639
+2a02:6b8:b000:a609:428d:0:52d:cf33 1 1 28756 20200219130135
+51.68.152.26 1 1 49340 20200214164824
+95.28.219.74 1 1 49340 20200205103507
+66.249.83.1 1 1 49340 20200211092144
+42.236.10.76 1 1 49340 20200201075057
+95.108.181.104 136 136 6710240 20200228160340
+141.8.142.142 69 69 3404460 20200227044951
+85.206.165.26 12 12 592080 20200208042226
+51.77.246.204 1 1 49340 20200215142846
+91.218.230.230 1 1 49340 20200206215530
+54.36.150.32 1 1 28756 20200208233634
+107.174.143.19 1 1 49340 20200215160117
+66.249.66.45 3 3 98680 20200228084138
+46.229.168.163 3 3 57132 20200226145814
+37.9.113.81 3 3 148020 20200225163650
+209.17.96.210 1 1 49340 20200221033113
+42.236.14.161 2 2 98680 20200227075138
+92.240.205.203 1 1 49340 20200207193618
+159.203.96.191 9 9 339642 20200219141044
+141.8.183.96 151 151 7450340 20200229230639
+54.36.150.124 1 1 27938 20200220073008
+91.77.23.95 2 2 40728 20200227161849
+3.233.245.55 1 1 49340 20200213200543
+165.227.117.27 9 9 339642 20200220185759
+40.77.167.17 1 1 75101 20200208021142
+192.3.52.212 3 3 90068 20200222195512
+40.77.167.137 2 2 106433 20200222202247
+141.8.142.116 23 23 1134820 20200229115635
+142.4.218.156 11 11 438322 20200215001405
+18.219.32.163 1 1 49340 20200205204633
+94.77.77.158 1 1 75101 20200206121542
+185.85.162.242 2 2 98680 20200218023510
+157.55.39.249 2 2 31332 20200228011219
+95.163.255.11 2 2 0 20200204040721
+5.105.1.49 1 1 49340 20200225002434
+91.235.233.17 1 1 49340 20200214135641
+66.102.9.79 8 8 394720 20200228140627
+95.163.255.41 1 1 49340 20200204121558
+176.57.70.198 6 6 238088 20200221122517
+17.58.101.191 3 3 148020 20200227132047
+66.249.70.58 1 1 49340 20200201001626
+130.193.66.76 1 1 49340 20200211024548
+54.36.150.187 1 1 31332 20200205065309
+91.221.199.72 1 1 49340 20200224103701
+45.154.255.44 3 3 148020 20200206100321
+38.91.106.40 1 1 49340 20200212051851
+92.42.15.11 1 1 49340 20200205180013
+46.229.168.150 2 2 28006 20200215203712
+148.251.223.21 18 18 679284 20200212223807
+84.17.47.71 2 2 98680 20200225223257
+77.83.173.126 1 1 20364 20200219020338
+54.36.150.84 1 1 29163 20200218204302
+194.190.92.105 1 1 49340 20200207115644
+36.6.89.40 1 1 49340 20200217205857
+192.42.116.25 3 3 148020 20200221195201
+85.206.165.18 4 4 197360 20200217074350
+2a00:1fa0:c645:85c0:289d:6bec:ed7f:89c9 3 3 49340 20200227144338
+2a00:1fa0:464a:5f1:909b:681a:baa8:ad2d 1 1 49340 20200224182906
+89.163.242.241 1 1 49340 20200215163059
+86.62.61.83 1 1 49340 20200213090935
+3.234.213.226 1 1 49340 20200204200739
+3.18.212.91 1 1 49340 20200211202024
+40.77.167.228 1 1 49340 20200223005005
+109.194.51.15 9 9 339642 20200214181810
+207.46.13.125 1 1 49340 20200218130606
+37.9.113.68 10 10 493400 20200227233624
+86.62.84.136 1 1 49340 20200228164510
+157.55.39.123 1 1 0 20200222132606
+2a00:1370:811b:8a8e:849a:902:26a8:f9bb 1 1 49340 20200210193341
+44.230.211.245 1 1 49340 20200217121806
+31.173.101.178 5 5 188748 20200219162601
+46.229.168.162 2 2 75169 20200224211733
+141.8.188.57 22 22 1085480 20200229131000
+95.108.213.7 6 6 296040 20200228165704
+34.222.252.6 1 1 49340 20200223130109
+5.45.207.34 8 8 374136 20200229152357
+66.249.70.32 2 2 28308 20200206032330
+66.249.93.62 1 1 49340 20200215123834
+141.8.183.208 23 23 1134820 20200229161923
+94.77.77.104 1 1 28756 20200206121542
+109.252.20.213 1 1 49340 20200218103659
+176.213.247.65 2 2 98680 20200212170433
+66.249.64.162 1 1 49340 20200207082007
+178.154.171.67 26 26 1282840 20200229095130
+46.229.168.161 3 3 170566 20200221161006
+154.30.177.141 1 1 49340 20200209035107
+3.15.45.245 1 1 49340 20200216183019
+113.229.81.108 1 1 49340 20200228133340
+212.193.117.245 18 18 679284 20200212100753
+3.133.59.170 1 1 49340 20200207202500
+217.118.93.118 1 1 49340 20200226124630
+95.163.255.51 3 3 49340 20200203070007
+207.46.13.122 3 3 173781 20200213225956
+95.30.28.119 2 2 69704 20200223161756
+46.229.168.148 3 3 77716 20200227065439
+46.118.126.142 6 6 296040 20200214212242
+54.36.150.19 1 1 28756 20200205102203
+185.195.25.238 1 1 49340 20200228171814
+34.205.2.199 1 1 49340 20200214204058
+88.85.95.125 1 1 49340 20200227161044
+18.218.139.124 1 1 49340 20200212204450
+178.137.91.67 78 78 3848520 20200227075825
+176.212.124.171 7 7 290970 20200226080736
+117.218.252.81 1 1 49340 20200213215606
+35.153.193.209 1 1 49340 20200225025650
+54.36.150.59 1 1 49340 20200210044229
+54.36.150.75 1 1 28308 20200223064428
+188.254.34.30 2 2 98680 20200220025741
+95.84.171.187 1 1 49340 20200217095948
+176.112.194.53 2 2 98680 20200229161702
+158.69.252.227 1 1 49340 20200228141658
+54.36.150.132 1 1 49340 20200225041234
+78.46.128.204 9 9 339642 20200205141330
+94.77.76.43 1 1 27938 20200206121536
+45.55.254.23 9 9 339642 20200203010805
+66.249.66.194 1 1 49340 20200229130856
+207.46.13.28 4 4 156599 20200219232327
+176.59.38.83 1 1 49340 20200212152203
+109.252.72.34 5 5 246700 20200218192338
+34.220.12.21 2 2 69704 20200225084811
+178.122.242.116 1 1 49340 20200209050931
+213.180.203.120 1 1 29163 20200214185052
+42.236.55.41 1 1 49340 20200220075626
+18.223.156.96 1 1 49340 20200219201208
+92.63.111.27 1 1 49340 20200206225905
+213.159.213.137 2 2 98680 20200223224712
+109.252.99.234 1 1 49340 20200208155021
+46.118.118.75 81 81 3996540 20200227024428
+185.146.156.156 2 2 98680 20200223210829
+37.9.113.166 148 148 7302320 20200228055113
+3.135.190.98 1 1 49340 20200220204306
+146.247.25.88 4 4 197360 20200206225730
+51.15.124.33 1 1 49340 20200225235426
+54.36.148.60 1 1 75101 20200228201759
+42.236.10.122 1 1 49340 20200215115054
+193.169.52.39 5 5 246700 20200229081259
+178.175.142.134 2 2 98680 20200219075200
+209.17.96.122 1 1 49340 20200212042342
+185.61.78.16 2 2 98680 20200229063108
+46.50.193.65 1 1 20364 20200229172334
+212.59.102.122 2 2 77278 20200204190505
+62.16.15.151 2 2 98680 20200211213648
+146.247.25.82 12 12 592080 20200218054434
+207.46.13.84 1 1 0 20200209090240
+94.77.122.219 1 1 49340 20200210110706
+185.106.28.102 3 3 148020 20200226135023
+54.36.150.82 1 1 49340 20200205112248
+37.203.16.137 2 2 98680 20200201053113
+66.249.72.31 1 1 27938 20200210033855
+95.108.181.85 148 148 7302320 20200226124906
+176.36.88.53 2 2 98680 20200229221830
+95.213.184.236 2 2 40728 20200228084119
+91.77.25.63 1 1 20364 20200203133445
+66.249.65.163 2 2 49340 20200203022806
+94.77.76.64 1 1 49340 20200229143501
+176.14.7.47 1 1 49340 20200206212336
+199.249.230.84 3 3 148020 20200222014237
+157.55.39.147 1 1 0 20200204072522
+141.8.142.67 22 22 1085480 20200228182331
+51.255.45.144 3 3 148020 20200228053121
+46.229.168.135 2 2 49408 20200225143013
+46.39.248.221 1 1 49340 20200204000159
+95.216.149.140 1 1 49340 20200220120605
+146.247.25.83 4 4 197360 20200219165327
+93.187.188.122 1 1 49340 20200226175130
+86.189.205.158 1 1 49340 20200228090205
+46.229.168.147 4 4 126398 20200227172139
+54.36.150.103 1 1 29163 20200219075459
+179.63.254.90 1 1 49340 20200224100227
+178.154.171.130 20 20 919452 20200228114525
+141.8.142.179 133 133 6533244 20200229215457
+179.109.15.151 1 1 49340 20200219225947
+141.8.142.6 16 16 789440 20200229062906
+191.96.181.236 2 2 40728 20200223050710
+141.8.142.93 2 2 77278 20200228180822
+146.247.25.89 2 2 98680 20200218160017
+46.101.80.192 6 6 215869 20200217171319
+185.32.222.115 8 8 394720 20200205013120
+209.17.96.2 1 1 49340 20200221053657
+188.93.56.216 1 1 49340 20200228190129
+46.118.112.47 81 81 3996540 20200227151801
+176.57.70.41 9 9 339642 20200210053859
+209.17.96.234 1 1 49340 20200221141559
+107.6.183.162 1 1 49340 20200207183712
+91.220.1.65 2 2 69704 20200217114204
+141.8.183.112 34 34 1656528 20200229232944
+46.229.168.136 3 3 126988 20200219132537
+95.163.255.13 5 5 48302 20200228232500
+44.227.13.158 1 1 49340 20200209130303
+23.129.64.186 3 3 148020 20200219022834
+34.223.93.228 1 1 49340 20200226015301
+162.247.74.213 3 3 148020 20200204201645
+2a00:1370:8135:744f:708d:5379:734f:605e 1 1 49340 20200221134016
+51.77.249.204 2 2 98680 20200226212103
+35.202.67.237 1 1 49340 20200205012203
+144.76.97.147 1 1 49340 20200208204928
+151.55.1.67 1 1 49340 20200221030118
+37.57.218.190 1 1 49340 20200217202112
+185.13.112.242 1 1 49340 20200226230751
+141.8.183.15 14 14 690760 20200229154151
+66.249.72.5 3 3 148020 20200210204420
+37.143.15.220 8 8 394720 20200226205412
+95.108.213.33 16 16 789440 20200229143345
+94.77.76.89 1 1 29163 20200206121542
+207.46.13.199 1 1 49340 20200217174745
+93.124.39.2 1 1 49340 20200203074517
+91.197.106.111 2 2 49340 20200222141338
+195.222.162.18 1 1 49340 20200217145609
+66.249.69.32 1 1 0 20200213000523
+94.77.77.35 1 1 31332 20200206121542
+37.9.113.158 16 16 768038 20200229114243
+141.8.142.28 2 2 98680 20200229075838
+178.140.172.237 1 1 49340 20200206113331
+46.229.168.132 2 2 57919 20200224081225
+91.246.95.126 1 1 49340 20200213154611
+176.119.109.24 8 8 394720 20200228191409
+157.55.39.161 2 2 98680 20200228160551
+77.108.90.104 3 3 119044 20200220134736
+81.23.3.149 1 1 49340 20200226181027
+77.37.198.176 3 3 119044 20200225014006
+91.76.171.180 1 1 49340 20200205215818
+103.201.143.149 1 1 49340 20200224082655
+54.36.148.216 1 1 49340 20200227122744
+157.55.39.226 3 3 148020 20200213002301
+66.249.70.63 1 1 49340 20200206173249
+42.236.10.71 1 1 49340 20200222110040
+196.52.43.75 1 1 49340 20200221093213
+157.55.39.40 3 3 107259 20200225231824
+176.59.51.71 3 3 49340 20200217093141
+2607:ff10:c5:509a::12 1 1 49340 20200211031134
+51.158.161.141 1 1 49340 20200218061456
+46.118.112.198 21 21 1036140 20200229215734
+35.188.245.124 1 1 49340 20200201151855
+64.246.165.50 1 1 49340 20200215164623
+93.158.166.15 22 22 1085480 20200229160337
+95.163.255.30 2 2 49340 20200205003910
+66.249.66.34 1 1 49340 20200217094522
+66.102.9.77 5 5 203896 20200229082809
+142.93.67.186 9 9 339642 20200215114307
+95.163.255.31 2 2 49340 20200205174850
+185.86.93.28 1 1 49340 20200204194607
+54.36.148.8 1 1 75101 20200229184849
+94.77.77.27 1 1 28308 20200206121542
+46.229.168.141 2 2 28824 20200223155019
+31.173.85.220 1 1 49340 20200220135044
+109.252.31.177 2 2 80672 20200226121012
+159.89.207.86 2 2 49408 20200203085430
+187.58.7.223 1 1 49340 20200220075348
+178.20.235.164 13 13 453616 20200210110707
+157.55.39.200 1 1 49340 20200215131046
+66.249.66.49 2 2 124441 20200228191009
+141.8.142.105 149 149 7351660 20200229212637
+138.99.216.171 1 1 49340 20200224133716
+95.216.207.37 2 2 98680 20200203094937
+141.8.183.209 138 138 6808920 20200229233612
+18.205.38.83 1 1 49340 20200218201006
+46.229.168.138 1 1 49340 20200214085827
+141.8.189.4 3 3 148020 20200229111719
+80.95.45.238 2 2 98680 20200207223822
+176.59.47.150 1 1 49340 20200225091023
+130.0.41.200 2 2 98680 20200217045834
+38.68.134.82 1 1 49340 20200226085047
+46.229.168.152 4 4 58462 20200217122852
+213.59.239.138 1 1 49340 20200219111709
+188.187.190.64 4 4 197360 20200228010847
+103.226.143.86 1 1 49340 20200226002557
+37.19.1.241 18 18 679284 20200223191802
+46.229.168.133 1 1 29163 20200215111549
+136.243.111.221 3 3 148020 20200219115951
+191.102.182.220 1 1 49340 20200203050531
+213.59.130.15 1 1 0 20200206163645
+95.57.102.212 2 2 69704 20200204075300
+42.236.10.82 1 1 49340 20200218075534
+37.203.0.66 2 2 98680 20200217224443
+81.95.135.194 2 2 69704 20200218165704
+128.68.104.30 6 6 122184 20200228215812
+46.229.168.131 5 5 106170 20200224034438
+46.229.168.143 3 3 83028 20200224121640
+54.36.148.71 1 1 20364 20200222220503
+3.228.23.44 1 1 49340 20200202182301
+31.173.100.7 5 5 188748 20200208234617
+2a00:1370:8113:ec97:a88f:fdca:c439:f697 1 1 49340 20200214221729
+188.163.32.40 9 9 339642 20200223060328
+54.36.148.154 1 1 49340 20200210153003
+185.220.100.241 3 3 148020 20200203045238
+37.9.113.79 71 71 3503140 20200229234154
+109.252.70.101 1 1 49340 20200214083841
+42.236.10.83 2 2 98680 20200213085142
+69.158.97.40 1 1 20364 20200217021612
+46.119.160.50 3 3 148020 20200214212031
+207.46.13.138 2 2 98680 20200226003228
+18.205.192.109 1 1 49340 20200210202911
+80.89.156.213 7 7 287428 20200227021015
+54.36.150.134 1 1 27938 20200213081818
+85.206.162.213 6 6 296040 20200202205701
+165.227.188.19 1 1 49340 20200212124619
+66.249.65.186 1 1 49340 20200203141752
+93.78.32.246 2 2 69704 20200226172516
+146.247.25.80 6 6 296040 20200226123352
+95.163.255.14 3 3 98680 20200227022355
+144.168.162.250 2 2 98680 20200219024326
+42.236.10.109 1 1 49340 20200229085129
+46.229.168.151 4 4 91488 20200225234215
+128.0.129.167 1 1 49340 20200205200808
+46.229.168.146 2 2 78503 20200228125948
+176.103.56.200 5 5 101820 20200224113005
+40.77.167.208 2 2 78096 20200224131619
+51.77.249.193 1 1 49340 20200208061332
+94.77.127.124 1 1 49340 20200228093812
+109.74.141.18 2 2 69704 20200221175004
+95.163.255.20 2 2 98680 20200202215132
+91.216.66.70 1 1 49340 20200226165354
+66.249.64.165 1 1 49340 20200202140607
+185.103.255.190 2 2 98680 20200204040832
+2a00:1fa0:850:7f71:e37e:838b:3814:1526 1 1 49340 20200220154602
+193.8.0.136 2 2 98680 20200226162925
+82.204.185.62 2 2 77278 20200205173822
+42.236.10.108 1 1 49340 20200211095256
+46.101.122.215 2 2 49408 20200222180012
+37.203.8.141 4 4 197360 20200205213144
+1.0.248.85 1 1 49340 20200227175436
+176.214.48.112 1 1 49340 20200221111359
+42.236.10.107 1 1 49340 20200225075018
+198.23.187.103 2 2 40728 20200210094758
+95.91.74.11 1 1 49340 20200224094647
+141.8.142.95 126 126 6216840 20200229223853
+146.247.25.86 6 6 296040 20200209031730
+37.9.113.9 148 148 7282143 20200229153227
+37.9.113.209 22 22 1064896 20200229161215
+94.77.77.237 1 1 49340 20200206121541
+37.115.251.163 9 9 444060 20200220023444
+104.236.67.162 9 9 339642 20200227230548
+46.229.168.137 3 3 69772 20200215000509
+209.17.96.26 1 1 49340 20200207085932
+40.77.167.159 1 1 27938 20200214135751
+46.229.168.153 3 3 103107 20200228220410
+207.46.13.5 2 2 124441 20200221034137
+191.102.167.211 1 1 49340 20200208224942
+37.9.113.104 14 14 690760 20200228091044
+2604:a880:2:d0::a7:9001 2 2 49408 20200216143552
+95.108.213.44 155 155 7647700 20200229211142
+95.108.213.55 27 27 1314172 20200229114949
+141.8.142.23 14 14 690760 20200229133301
+90.154.70.115 1 1 49340 20200210104024
+45.90.32.83 2 2 58326 20200207115917
+138.197.158.232 1 1 0 20200212130411
+37.115.187.152 15 15 740100 20200229134740
+113.35.251.98 1 1 49340 20200221094134
+92.252.241.11 1 1 49340 20200227000749
+195.151.84.14 2 2 69704 20200227133741
+46.0.110.252 9 9 339642 20200218220809
+45.132.192.61 2 2 98680 20200205091330
+159.203.93.122 2 2 49408 20200228125512
+46.246.65.165 4 4 197360 20200227130208
+3.233.229.237 1 1 49340 20200227200739
+94.77.77.124 1 1 20364 20200206121542
+5.183.92.181 1 1 49340 20200227183756
+141.8.132.28 1 1 49340 20200228083604
+95.163.255.40 3 3 98680 20200222164506
+79.139.212.241 1 1 49340 20200208150721
+46.118.121.248 30 30 1480200 20200229213926
+2001:bc8:1840:110e::1 1 1 49340 20200201145611
+2a00:1370:8147:3255:c861:f0de:9c4:5a24 2 2 77278 20200204181339
+34.219.131.80 2 2 98680 20200205050728
+141.8.183.118 143 143 7034218 20200229194953
+51.77.246.206 1 1 49340 20200215060021
+172.94.38.196 1 1 49340 20200221032350
+89.187.168.176 8 8 394720 20200204062952
+2a00:1370:8114:ee16:ac23:e6a3:df71:526 1 1 49340 20200202092329
+46.229.168.142 1 1 20364 20200227064555
+165.231.212.235 3 3 90068 20200217043731
+188.255.114.185 4 4 197360 20200214135816
+95.163.255.16 1 1 31332 20200205220525
+213.87.134.135 1 1 49340 20200217071905
+188.40.80.134 2 2 98680 20200209123531
+95.163.255.21 2 2 98680 20200205174040
+195.133.146.119 1 1 49340 20200220222625
+45.139.48.6 6 6 296040 20200226104821
+37.9.113.198 31 31 1529540 20200229150038
+213.87.136.18 1 1 49340 20200229104059
+18.206.15.61 1 1 49340 20200221204612
+13.59.49.98 1 1 49340 20200228201136
+66.249.69.129 1 1 49340 20200210112322
+2a02:6b8:b000:90b:96de:0:8d08:b731 9 9 444060 20200221101950
+31.173.87.74 1 1 49340 20200221123650
+46.229.168.129 2 2 75169 20200228075703
+141.8.142.182 26 26 1282840 20200229082011
+213.159.213.236 1 1 49340 20200211173038
+159.203.110.156 9 9 339642 20200223192158
+178.140.134.212 1 1 49340 20200222024954
+185.216.34.220 1 1 75101 20200222153915
+66.102.9.81 3 3 130012 20200221141616
+109.252.47.81 5 5 188748 20200226014927
+31.173.31.76 1 1 49340 20200223154148
+46.39.248.207 2 2 69704 20200218133700
+138.197.64.69 9 9 339642 20200201042243
+141.8.142.74 18 18 888120 20200228191908
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200201 206 206 9858880 168
+20200202 236 236 11401031 172
+20200203 223 223 10536197 168
+20200204 218 218 10458140 173
+20200205 212 212 10199820 161
+20200206 235 235 11150078 182
+20200207 223 223 10703986 166
+20200208 215 215 10344520 161
+20200209 201 201 9664452 165
+20200210 233 233 10835000 165
+20200211 198 198 9652071 156
+20200212 231 231 10824656 159
+20200213 212 212 10190936 164
+20200214 239 239 11459987 166
+20200215 261 261 12332398 172
+20200216 275 275 12831777 171
+20200217 269 269 12654211 181
+20200218 266 266 12863764 183
+20200219 250 250 11981923 173
+20200220 274 274 13000535 177
+20200221 230 230 11216729 169
+20200222 226 226 10876691 155
+20200223 263 263 12357131 186
+20200224 239 239 11612513 165
+20200225 246 246 11727050 178
+20200226 268 268 12959539 180
+20200227 250 250 11825723 178
+20200228 267 267 12660915 197
+20200229 247 247 11993309 187
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 345
+5mn-15mn 160
+2mn-5mn 11
+0s-30s 4107
+30s-2mn 24
+15mn-30mn 230
+1h+ 101
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 6397 314246460 4788 4721
+/contact.html 127 2565864 35 83
+/sluchai.html 67 5031767 28 31
+/medicine.html 62 1704218 19 26
+/autopolis.html 60 1879920 21 22
+/imushestvo.html 59 1667848 22 21
+/polis.html 58 1472016 23 26
+/comission.html 55 1603965 18 20
+/cgi-bin/sendmail.php 7 476 7 7
+/cgi-bin/sendmail2.php 6 408 6 6
+//cgi-bin/sendmail4.php 4 272 0 4
+/cgi-bin/sendmail4.php 5 340 5 5
+/cgi-bin/sendmail1.php 6 408 6 6
+END_SIDER

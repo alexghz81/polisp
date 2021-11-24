@@ -1,0 +1,596 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2612                
+POS_VISITOR 13708               
+POS_DAY 18866               
+POS_DOMAIN 3365                
+POS_LOGIN 3804                
+POS_ROBOT 3959                
+POS_WORMS 4091                
+POS_EMAILSENDER 4222                
+POS_EMAILRECEIVER 4365                
+POS_SESSION 19210               
+POS_SIDER 19419               
+POS_FILETYPES 4500                
+POS_OS 4623                
+POS_BROWSER 4674                
+POS_SCREENSIZE 5312                
+POS_UNKNOWNREFERER 5386                
+POS_UNKNOWNREFERERBROWSER 7419                
+POS_ORIGIN 7847                
+POS_SEREFERRALS 7987                
+POS_PAGEREFS 8131                
+POS_SEARCHWORDS 8660                
+POS_KEYWORDS 8812                
+POS_MISC 2276                
+POS_ERRORS 8871                
+POS_CLUSTER 3660                
+POS_SIDER_404 9001                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141101002735 55 9237 27021762778867
+FirstTime 20141021101038
+LastTime 20141031220743
+LastUpdate 20141101062753 55 0 53 0 1
+TotalVisits 310                 
+TotalUnique 128                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 128                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 27 27 986848 5 7 1045
+1 21 21 764450 6 7 1466
+2 15 15 584430 5 6 1040
+3 13 13 471357 3 6 1075
+4 48 48 1842914 19 77 81807
+5 11 11 426000 0 6 659
+6 14 14 514490 7 37 1677
+7 16 16 620407 7 10 1456
+8 32 32 989846 6 8 40479
+9 56 56 1363310 4 152 1056
+10 19 19 690240 7 18 43272
+11 41 41 1514903 7 24 4567
+12 34 34 1364579 5 98 1478
+13 22 22 834489 8 35 1934
+14 32 32 1172910 5 35 1251
+15 19 19 734319 4 5 1050
+16 35 35 1270743 16 37 46077
+17 31 31 1139379 6 221 34433
+18 37 37 1360224 7 27 5158
+19 29 29 1030588 8 12 2337
+20 16 16 589490 4 34 1043
+21 40 40 1127978 3 80 845
+22 24 24 964946 10 33 6196
+23 29 29 1096480 9 11 2087
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+ru 403 403 13880711
+us 212 212 7750955
+ua 9 9 356368
+cz 9 9 358918
+de 7 7 276718
+ca 4 4 158552
+gb 3 3 118914
+lu 3 3 118540
+md 2 2 79276
+lv 2 2 79276
+tr 1 1 39638
+cn 1 1 39638
+ip 1 1 39264
+fr 2 2 79276
+ee 1 1 39638
+nl 1 1 39638
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+eot 6 229230 0 0
+html 588 20660804 0 0
+woff 62 2310464 0 0
+pl 5 254822 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 1
+Unknown 331
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 37
+chrome37.0.2062.124 17
+safari7.0 6
+msie6.0 8
+ 18
+firefox5.0 1
+firefox4.0.1 3
+chrome38.0.2125.104 159
+firefox26.0 1
+chrome28.0.1500.95 1
+chrome38.0.2125.101 15
+firefox18.0 1
+chrome38.0.2125.111 4
+chrome31.0.1650.57 2
+chrome36.0.1985.125 2
+chrome31.0.1650.63 7
+opera9.80 2
+msie8.0 1
+msie7.0 7
+safari8.0 8
+chrome29.0.1547.66 1
+msie9.0 1
+chrome37.0.2062.103 6
+Unknown 23
+safari7.1 3
+chrome10.0.648.127 1
+chrome37.0.2049.0 1
+safari6.0 13
+opera9.27 6
+chrome38.0.2125.102 4
+safari7.0.6 8
+chrome36.0.1985.143 3
+firefox25.0 4
+netscape5.0 1
+msie10.0 8
+chrome23.0.1271.97 9
+safari 8
+firefox3.5.7 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 26
+Mozilla/5.0_(compatible;_meanpathbot/1.0;__http://www.meanpath.com/meanpathbot.html) 20141030114807
+Opera/9.80_(Android;_Opera_Mini/7.5.32193/35.5125;_U;_ru)_Presto/2.8.119_Version/11.10 20141027102032
+Mozilla/5.0_(compatible;_DotBot/1.1;_http://www.opensiteexplorer.org/dotbot,_help@moz.com) 20141029154737
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20141031172744
+Mozilla/5.1_(compatible;_PWBot/1.0;__http://opendownload.pw) 20141024024152
+DoCoMo/2.0_N905i(c100;TB;W24H16)_(compatible;_Googlebot-Mobile/2.1;__http://www.google.com/bot.html) 20141029192942
+Mozilla/5.1_(compatible;_DBot/7.0;__http://getdownload.ws) 20141030184241
+Mediapartners-Google 20141023145202
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20141031220743
+mifetcher/1.0 20141024102912
+Mozilla/4.0_(compatible;_Synapse) 20141025063811
+Mozilla/5.0_(compatible;_YandexFavicons/1.0;__http://yandex.com/bots) 20141029150038
+Opera/9.27 20141021150230
+Phantom.js_bot 20141026002006
+Mozilla/5.0_(compatible;_Exabot/3.0;__http://www.exabot.com/go/robot) 20141030020648
+Wget/1.11.4 20141030223837
+Mozilla/5.0_(compatible;_statdom.ru/Bot;__http://statdom.ru/bot.html) 20141030034631
+Mozilla/5.0_(compatible;_YandexDirect/3.0;__http://yandex.com/bots) 20141023141510
+SAMSUNG-SGH-E250/1.0_Profile/MIDP-2.0_Configuration/CLDC-1.1_UP.Browser/6.2.3.3.c.1.101_(GUI)_MMP/2.0_(compatible;_Googlebot-Mobile/2.1;__http://www.google.com/bot.html) 20141028121307
+rogerbot/1.0_(http://moz.com/help/pro/what-is-rogerbot-,_rogerbot-wherecat@moz.com) 20141021232616
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20141031183904
+Mozilla/5.0_(compatible;_Web-Monitoring/1.0;__http://monoid.nic.ru/) 20141029041030
+My_Nutch_Spider/Nutch-1.6 20141030182038
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H; 20141027224245
+www.ru 20141025173854
+Mozilla/5.0_(compatible;_StatOnlineRuBot/1.0) 20141025163130
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+My_Nutch_Spider/Nutch-1.6 20141030182038
+Mediapartners-Google 20141023145202
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H; 20141027224245
+www.ru 20141025173854
+mifetcher/1.0 20141024102912
+rogerbot/1.0_(http://moz.com/help/pro/what-is-rogerbot-,_rogerbot-wherecat@moz.com) 20141021232616
+Phantom.js_bot 20141026002006
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 420 420
+From1 4 4
+From2 0 0
+From3 51 51
+From4 186 186
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://yandex.ru/clck/jsredir 13 13
+http://yandex.ru/yandsearch 12 12
+http://yandex.ru/touchsearch 7 7
+http://vk.com/away.php 5 5
+http://getdownload.ws 4 4
+http://opendownload.pw 3 3
+http://vk.com/im 2 2
+http://yandex.ru/msearch 1 1
+http://search.jerusalem.com/v21/web/ 1 1
+https://e.mail.ru/message/14140772570000000123/ 1 1
+https://duckduckgo.com 1 1
+https://www.google.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 2 802
+302 5 0
+206 6 228055
+301 2 466
+404 923 54165
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 118
+/polisp1_files/avar.png 1 -
+/admin/content/sitetree/ 1 -
+/robots.txt 100 http://polisp.ru/robots.txt
+/manager/ 1 -
+/admin.php 4 -
+/framer/login.php 1 -
+/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/logopp4.png 6 http://go.mail.ru/search_images
+/dtp_files/_YMaps.js 2 http://polisp.ru/
+/img/logo/4@2x.jpg 26 http://polisp.ru/
+/images/man3@2x.png 17 http://polisp.ru/
+/img/logo/8@2x.jpg 21 http://polisp.ru/
+/manager/templates/default/css/login-min.css 1 -
+/images/man4@2x.png 17 http://polisp.ru/
+/polisp1_files/calc.js 3 http://polisp.ru/
+/wp-admin/ 1 -
+/dtp_files/_YMaps.css 3 http://polisp.ru/
+/netcat/admin/ 1 -
+/wordpress 1 http://polisp.ru/wordpress
+/blog 1 http://polisp.ru/blog
+/manager/media/script/mootools/mootools.js 1 -
+/polisp1_files/style_004.css 3 http://polisp.ru/
+/polisp1_files/auto.png 6 http://go.mail.ru/search_images
+/wp-content/ 1 -
+/insur/msk.jpg 1 -
+/polisp1_files/template_styles.css 3 http://polisp.ru/
+/images/man@2x.png 17 http://polisp.ru/
+/polisp1_files/med_kom.png 8 -
+/node/ 1 -
+/images/metro-s@2x.png 27 http://polisp.ru/
+/img/logo/9@2x.jpg 21 http://polisp.ru/
+/insur/vsk.jpg 1 -
+/polisp1_files/styles.css 3 http://polisp.ru/
+/%3Fpage%3D_rosn 1 -
+/polisp1_files/style.css 3 http://polisp.ru/
+/manager/templates/default/images/style/modx-logo-header.png 1 -
+/img/logo/5@2x.jpg 26 http://polisp.ru/
+/img/logo/3@2x.jpg 26 http://polisp.ru/
+/images/man2@2x.png 17 http://polisp.ru/
+/dtp_files/scripts.js 4 http://polisp.ru/
+/js/uploadify/uploadify.swf 1 http://polisp.ru/js/uploadify/uploadify.swf
+/images/metro@2x.png 27 http://polisp.ru/
+/netcat/admin/skins/default/css/style.css 1 -
+/bitrix/js/main/core/core.css 1 -
+/polisp1_files/med.png 6 http://go.mail.ru/search_images
+/administrator/ 2 -
+/images/cms/admin/mac/common/butterfly.png 1 -
+/polisp1_files/style_003.css 3 http://polisp.ru/
+/insur/sogl.jpg 1 -
+/polisp1_files/jquery.js 3 http://polisp.ru/
+/insur/maks.png 2 -
+/uploadify/uploadify.swf 1 http://polisp.ru/uploadify/uploadify.swf
+/polisp1_files/style_002.css 3 http://polisp.ru/
+/img/logo/12@2x.jpg 21 http://polisp.ru/
+/img/logo/10@2x.jpg 21 http://polisp.ru/
+/insur/ren.jpg 1 -
+/wp-login.php 6 -
+/img/logo/16@2x.jpg 26 http://polisp.ru/
+/manager/media/style/MODxCarbon/images/misc/logo.png 1 -
+/manager/media/style/MODxCarbon/images/misc/login-logo.png 1 -
+/netcat/admin/skins/default/css/login.css 1 -
+/manager/templates/default/images/restyle/headers.jpg 1 -
+/bitrix/themes/.default/images/auth_pict.gif 1 -
+/drupal 1 http://polisp.ru/drupal
+/images/metro-z@2x.png 27 http://polisp.ru/
+/dtp_files/jquery-1.js 2 http://polisp.ru/
+/apple-touch-icon.png 1 -
+/img/logo/13@2x.jpg 26 http://polisp.ru/
+/img/logo/15@2x.jpg 26 http://polisp.ru/
+/users/forget/ 1 -
+/img/logo/1@2x.jpg 36 http://polisp.ru/
+/dtp_files/main.js 4 http://polisp.ru/
+/insur/vtb.gif 1 -
+/templates/system/css/system.css 1 -
+/modules/system/system.base.css 1 -
+/insur/reso.jpg 2 -
+/images/metro-yel@2x.png 27 http://polisp.ru/
+/images/page1_2.png 6 http://go.mail.ru/search_images
+/insur/ugo.jpg 4 -
+/polisp1_files/style_005.css 3 http://polisp.ru/
+/index.html 2 http://polisp.ru/autopolis.html
+/images/page1_1.png 6 http://go.mail.ru/search_images
+/netcat/admin/skins/default/img/logo.png 1 -
+/insur/ural.jpg 4 -
+/img/logo/14@2x.jpg 26 http://polisp.ru/
+/modules/system/system.css 1 -
+/joomla 1 http://polisp.ru/joomla
+/insur/igs.jpg 2 -
+/user/login/ 1 -
+/images/logo@2x.png 22 http://polisp.ru/
+/bitrix/themes/.default/adminstyles.css 1 -
+/styles/skins/mac/design/css/style.css 1 -
+/users/registrate/ 1 -
+/CHANGELOG.txt 1 http://polisp.ru/CHANGELOG.txt
+/dtp_files/jquery.js 2 http://polisp.ru/
+/polisp1_files/msk2.png 1 https://www.google.ru/
+/img/logo/2@2x.jpg 36 http://polisp.ru/
+/page=order 2 -
+/images/page1_4.png 6 http://go.mail.ru/search_images
+/user/ 2 -
+/img/logo/6@2x.jpg 25 http://polisp.ru/
+/installed 1 -
+/wp-admin/images/wordpress-logo.png 1 -
+/administrator/index.php 3 -
+/images/man6@2x.png 17 http://polisp.ru/
+/dtp_files/data.xml 1 http://polisp.ru/
+/manager/media/style/MODxCarbon/style.css 1 -
+/wp 1 http://polisp.ru/wp
+/polisp1_files/ad_block.swf 2 -
+/media/system/js/mootools.js 1 -
+/wp-admin/css/wp-admin.css 1 -
+/images/man5@2x.png 17 http://polisp.ru/
+/bitrix/admin/ 1 -
+/img/logo/7@2x.jpg 20 http://polisp.ru/
+/img/logo/11@2x.jpg 20 http://polisp.ru/
+/polisp1_files/dom.png 7 -
+/user/password/ 1 -
+/dtp_files/index.xml 3 http://polisp.ru/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 128
+178.140.255.15 104 104 2619645 20141030210249
+5.255.253.163 88 88 3437307 20141031183904
+207.46.13.56 31 31 1228778 20141031220743
+157.55.39.106 24 24 940050 20141031110608
+178.140.96.40 21 21 718797 20141024113249
+157.55.39.80 17 17 645481 20141031112019
+66.249.78.154 12 12 368278 20141029232400
+87.255.14.112 10 10 372954 20141024170322
+157.55.39.105 10 10 425552 20141029080517
+66.249.78.179 10 10 315982 20141030180832
+89.208.17.22 1 1 39638 20141025163130
+66.249.67.109 1 1 39638 20141029014901
+109.188.126.139 2 2 84070 20141024171332
+178.210.65.27 1 1 39638 20141023045647
+66.249.67.99 5 5 198190 20141029184640
+188.40.54.199 2 2 78902 20141022201254
+46.73.138.74 2 2 77843 20141030031244
+66.249.67.77 6 6 198190 20141026100247
+192.99.107.118 2 2 79276 20141028110944
+66.249.67.107 9 9 356368 20141031172744
+128.68.105.226 2 2 84070 20141028224951
+217.69.133.169 1 1 39638 20141022215251
+178.255.215.75 2 2 79276 20141030020648
+188.42.240.119 3 3 118540 20141030050028
+148.251.71.4 3 3 118914 20141024024152
+178.76.234.89 6 6 252210 20141030205737
+42.62.74.32 1 1 39638 20141024102912
+66.249.67.123 3 3 108767 20141025105909
+31.44.93.25 1 1 39638 20141028193158
+62.76.67.164 2 2 84070 20141028144115
+66.249.64.171 1 1 30025 20141021113759
+188.162.166.115 3 3 103325 20141028163850
+212.224.113.127 1 1 39638 20141025173854
+109.188.124.184 9 9 296169 20141023145200
+85.30.249.109 1 1 39638 20141025214838
+176.116.64.65 2 2 79276 20141026144045
+95.153.175.242 2 2 84070 20141029172053
+193.43.252.252 4 4 158552 20141030184241
+66.249.78.147 9 9 324502 20141030033935
+37.190.62.89 2 2 84070 20141023161756
+37.146.131.11 4 4 142112 20141021212044
+148.251.181.215 1 1 39264 20141021131225
+2620:10f:d00b::642b:550e 1 1 39264 20141021134617
+192.99.107.226 1 1 39638 20141030114807
+5.248.87.10 1 1 39638 20141026213911
+176.193.49.192 3 3 117481 20141030031225
+66.249.67.101 1 1 39638 20141028132001
+109.188.125.210 4 4 103325 20141025164220
+92.242.34.162 1 1 39638 20141024042714
+93.185.104.14 7 7 274848 20141021150230
+37.140.141.37 4 4 158552 20141029130130
+91.105.69.9 2 2 79276 20141025063811
+93.188.47.164 4 4 158367 20141024171832
+91.220.120.167 1 1 39638 20141022130008
+213.111.183.161 1 1 39638 20141022122903
+88.196.1.162 1 1 39638 20141023203705
+80.243.10.222 3 3 113935 20141024172842
+66.249.67.117 4 4 158552 20141029192942
+176.193.214.215 1 1 39264 20141022075200
+5.164.89.181 1 1 39638 20141025214838
+193.0.129.79 1 1 39638 20141026233813
+91.220.120.173 1 1 44432 20141022130010
+66.249.78.172 5 5 118540 20141027105305
+157.55.39.137 3 3 118914 20141031111527
+66.249.67.83 1 1 39638 20141027155634
+188.162.166.216 2 2 84070 20141028124945
+157.55.39.136 2 2 79276 20141031073054
+128.71.49.83 9 9 342673 20141030170955
+38.100.21.78 6 6 249904 20141025011031
+212.193.117.227 1 1 39638 20141023042943
+176.192.23.170 2 2 77843 20141023145636
+208.115.111.72 1 1 39638 20141028184048
+77.245.71.90 2 2 79276 20141027213021
+62.181.46.162 8 8 295946 20141023154113
+85.113.58.138 1 1 39638 20141027230316
+128.68.94.177 2 2 84070 20141026090206
+5.255.253.148 3 3 118914 20141031060957
+178.140.235.151 3 3 117481 20141030031225
+5.45.192.89 6 6 207778 20141028211339
+66.249.69.19 1 1 30316 20141024184029
+208.115.113.88 2 2 79276 20141029154737
+128.72.232.35 1 1 39638 20141025214838
+66.249.78.186 2 2 39638 20141030075549
+195.54.213.174 2 2 79276 20141030034631
+46.229.170.197 1 1 39638 20141024185606
+176.195.252.222 2 2 84070 20141026091139
+82.145.211.47 1 1 39638 20141027102032
+176.195.216.124 1 1 39264 20141022075159
+185.19.23.238 4 4 143884 20141026201317
+178.238.46.23 2 2 84070 20141026002006
+66.249.64.167 1 1 39264 20141021113359
+178.210.65.38 1 1 39638 20141029041030
+5.228.57.74 3 3 103325 20141024171337
+5.56.96.241 2 2 79276 20141030083528
+109.188.127.92 3 3 103325 20141022180917
+72.51.41.24 1 1 39638 20141027224245
+87.117.190.124 1 1 39638 20141024012726
+46.73.131.63 2 2 84070 20141023165632
+66.249.67.69 7 7 158552 20141027013308
+195.91.178.136 2 2 77843 20141022121221
+94.79.44.253 2 2 0 20141025001908
+109.234.156.66 9 9 356368 20141031034656
+142.4.218.201 1 1 39638 20141024145916
+95.84.196.42 2 2 84070 20141023225223
+66.249.67.115 6 6 198190 20141027143848
+178.140.230.76 1 1 39638 20141023200759
+109.188.125.254 2 2 84070 20141027145832
+37.9.84.253 2 2 78902 20141029150038
+5.79.186.239 1 1 39638 20141025193914
+193.110.73.2 1 1 39264 20141022055140
+5.28.31.109 1 1 39638 20141028202620
+213.87.129.23 2 2 84070 20141022202656
+66.249.78.140 7 7 235557 20141029233758
+176.195.142.18 1 1 39264 20141022075159
+217.131.103.93 1 1 39638 20141026161920
+83.149.9.150 2 2 77469 20141021141527
+66.249.67.61 7 7 237828 20141026092300
+66.249.67.91 1 1 39638 20141028121307
+46.17.203.253 8 8 276338 20141030182038
+109.188.126.136 2 2 84070 20141028132831
+209.249.5.246 8 8 314112 20141021232616
+89.178.34.158 1 1 39638 20141030011128
+188.32.228.49 8 8 336280 20141027132039
+128.72.146.78 6 6 186483 20141024213620
+188.32.225.204 5 5 136235 20141028162754
+157.55.39.113 8 8 315045 20141023041800
+109.188.86.247 2 2 84070 20141023153031
+95.37.48.234 1 1 39638 20141030223837
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20141021 84 84 3056227 35
+20141022 118 118 3393012 37
+20141023 47 47 1804815 30
+20141024 60 60 2213459 28
+20141025 74 74 2766168 33
+20141026 59 59 2191222 29
+20141027 41 41 1406506 26
+20141028 83 83 2922146 32
+20141029 30 30 1190891 24
+20141030 44 44 1678476 24
+20141031 21 21 832398 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 17
+30s-2mn 7
+2mn-5mn 8
+15mn-30mn 2
+0s-30s 258
+30mn-1h 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 447 16701375 283 232
+/fonts/fontawesome-webfontba72.woff 62 2310464 1 28
+/contact.html 28 383211 4 13
+/imushestvo.html 22 483756 3 4
+/polis.html 20 535985 7 5
+/autopolis.html 20 524887 1 6
+/medicine.html 19 528798 4 9
+/comission.html 15 428992 2 3
+/sluchai.html 15 1071940 3 3
+/fonts/fontawesome-webfontd41d.eot 6 229230 0 6
+/awstats/ 2 1860 2 0
+/awstats/awstats.pl 5 254822 0 1
+END_SIDER

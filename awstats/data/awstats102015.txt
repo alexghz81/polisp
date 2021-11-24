@@ -1,0 +1,901 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201510 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2616                
+POS_VISITOR 16870               
+POS_DAY 29948               
+POS_DOMAIN 3420                
+POS_LOGIN 3898                
+POS_ROBOT 4053                
+POS_WORMS 4226                
+POS_EMAILSENDER 4357                
+POS_EMAILRECEIVER 4500                
+POS_SESSION 30573               
+POS_SIDER 30774               
+POS_FILETYPES 4635                
+POS_OS 4792                
+POS_BROWSER 4846                
+POS_SCREENSIZE 6276                
+POS_UNKNOWNREFERER 6350                
+POS_UNKNOWNREFERERBROWSER 9027                
+POS_ORIGIN 9316                
+POS_SEREFERRALS 9458                
+POS_PAGEREFS 9602                
+POS_SEARCHWORDS 10320               
+POS_KEYWORDS 10472               
+POS_MISC 2280                
+POS_ERRORS 10531               
+POS_CLUSTER 3754                
+POS_SIDER_404 10653               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151101000735 124 30720 10652796928763
+FirstTime 20151001023356
+LastTime 20151031232548
+LastUpdate 20151101063117 124 0 123 0 0
+TotalVisits 890                 
+TotalUnique 334                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 334                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 76 76 3443455 78 79 18004
+1 33 33 1458798 16 17 52260
+2 30 30 1282840 9 11 2094
+3 36 36 1571787 13 14 30446
+4 46 46 2074295 12 16 52082
+5 56 56 2570482 18 67 53148
+6 61 61 2704539 26 47 3970
+7 46 46 1967313 17 17 2912
+8 56 56 2434106 15 146 3117
+9 51 51 2202910 17 92 52051
+10 41 41 1824180 14 36 51886
+11 87 87 3714899 14 61 8122
+12 54 54 2177808 13 49 4115
+13 38 38 1751875 12 12 1874
+14 76 76 3132641 14 105 2299
+15 57 57 2451730 9 317 5348
+16 48 48 2117608 16 133 3126
+17 56 56 2468594 18 57 3348
+18 73 73 3256262 24 116 4398
+19 37 37 1727487 13 14 51429
+20 42 42 1907834 11 137 51409
+21 73 73 3491782 25 117 54383
+22 52 52 2258433 12 13 51629
+23 47 47 1831709 9 11 1699
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+ru 757 757 32793611
+us 210 210 9266998
+de 83 83 3683286
+lt 45 45 2220300
+kz 42 42 2072280
+fr 40 40 1722485
+ca 30 30 1112547
+ip 19 19 875947
+ua 12 12 500822
+nl 10 10 493400
+cn 8 8 394720
+eu 1 1 49340
+cz 7 7 335564
+by 1 1 49340
+fi 4 4 109615
+sk 2 2 93772
+lu 1 1 49340
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 10 422658 20151030193442 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+eot 18 687690 0 0
+php 2 136 0 0
+ttf 6 483912 0 0
+html 1200 52450041 0 0
+woff 45 1999440 0 0
+svg 1 202148 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 2
+ 5
+Unknown 788
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 80
+msie6.0 5
+safari7.0.3 2
+chrome44.0.2403.125 3
+ 17
+chrome40.0.2214.115 3
+opera9.50 1
+firefox3.6 1
+chrome34.0.1847.137 1
+firefox26.0 1
+chrome5.0.375.99 1
+firefox18.0 1
+firefox4.0 2
+chrome31.0.1650.57 7
+chrome38.0.2125.111 2
+chrome31.0.1650.63 5
+safari5.0.1 1
+msie8.0 17
+chrome39.0.2171.65 19
+chrome34.0.1847.132 3
+firefox23.0 3
+chrome37.0.2062.120 4
+firefox41.0 7
+firefox0.9.3 1
+chrome28.0.1500.74 2
+chrome42.0.2311.152 5
+chrome39.0.2171.71 19
+firefox40.0 2
+chrome40.0.2214.109 2
+chrome38.0.2160.25 1
+firefox21.0 6
+firefox29.0 3
+firefox10.0.1 1
+chrome46.0.2490.71 6
+firefox38.0 4
+firefox3.5.2 1
+chrome30.0.1599.69 2
+chrome46.0.2490.80 3
+chrome35.0.1916.114 3
+firefox33.0 14
+firefox25.0 4
+chrome33.0.1750.117 16
+chrome44.0.2403.157 2
+netscape5.0 3
+chrome32.0.1700.76 6
+firefox3.6.3 1
+chrome41.0.2228.0 2
+chrome44.0.2403.133 2
+firefox19.0 2
+firefox36.0 8
+safari 10
+chrome21.0.1180.89 3
+safari7.0 7
+chrome37.0.2062.124 20
+chrome43.0.2327.5 1
+chrome43.0.2357.124 2
+chrome28.0.1500.95 4
+firefox24.0 3
+firefox3.5.3 1
+opera9.80 22
+firefox0.10.1 1
+chrome43.0.2357.81 21
+chrome41.0.2272.101 7
+chrome45.0.2454.93 2
+safari8.0 48
+msie5.0 1
+msie9.0 9
+Unknown 18
+chrome30.0.0.0 9
+firefox3.6.14 9
+firefox17.0 8
+chrome43.0.2357.132 2
+chrome45.0.2454.94 2
+safari9.0 4
+chrome18.0.1025.133 1
+firefox39.0 2
+chrome45.0.2454.101 21
+chrome35.0.1916.153 3
+msie10.0 26
+chrome25.0.1364.172 1
+firefox3.5.7 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 31
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20151009224636
+Mozilla/5.0_(compatible;_meanpathbot/1.0;__http://www.meanpath.com/meanpathbot.html) 20151011185624
+Mozilla/5.0_(compatible;_DotBot/1.1;_http://www.opensiteexplorer.org/dotbot,_help@moz.com) 20151014022047
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20151031224715
+DoCoMo/2.0_N905i(c100;TB;W24H16)_(compatible;_Googlebot-Mobile/2.1;__http://www.google.com/bot.html) 20151028193144
+GuzzleHttp/6.1.0_curl/7.35.0_PHP/5.6.14-1_deb.sury.org~trusty_1 20151016144242
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20151012144412
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20151031125905
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots_mtmon01e.yandex.ru) 20151031175608
+Mozilla/5.0_(compatible;_openstat.ru/Bot) 20151011171524
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__http://megaindex.com/crawler) 20151014232309
+Mozilla/5.0_(compatible;_Yahoo!_Slurp;_http://help.yahoo.com/help/us/ysearch/slurp) 20151013054206
+Mozilla/3.0_(compatible;_Indy_Library) 20151008114157
+Phantom.js_bot 20151028004403
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots_mtmon01g.yandex.ru) 20151031232548
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots_DEV) 20151005042602
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots) 20151030165837
+FileMaker/14.0 20151030064920
+Mozilla/5.0_(compatible;_Exabot/3.0;__http://www.exabot.com/go/robot) 20151030104041
+Mozilla/5.0_(compatible;_statdom.ru/Bot;__http://statdom.ru/bot.html) 20151029231613
+SAMSUNG-SGH-E250/1.0_Profile/MIDP-2.0_Configuration/CLDC-1.1_UP.Browser/6.2.3.3.c.1.101_(GUI)_MMP/2.0_(compatible;_Googlebot-Mobile/2.1;__http://www.google.com/bot.html) 20151005152224
+ScreenerBot_Crawler_Beta_2.0_(_http://www.ScreenerBot.com) 20151003224816
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20151031130852
+Mozilla/5.0 20151028055728
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots_mtweb01t.yandex.ru) 20151031194241
+Mozilla/5.0_(compatible;_YandexMetrika/2.0;__http://yandex.com/bots_mtmon01i.yandex.ru) 20151031232012
+Mozilla/5.0_(compatible;_AhrefsBot/5.0;__http://ahrefs.com/robot/) 20151031162621
+nutch-1.4/Nutch-1.4 20151016222733
+Mozilla/5.0_(compatible;_SputnikBot/2.3;__http://corp.sputnik.ru/webmaster) 20151031021820
+Focus_Spider/Nutch-1.6 20151031230923
+Mozilla/5.0_(compatible;_MJ12bot/v1.4.5;_http://www.majestic12.co.uk/bot.php?_) 20151031003646
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+FileMaker/14.0 20151030064920
+nutch-1.4/Nutch-1.4 20151016222733
+Focus_Spider/Nutch-1.6 20151031230923
+ScreenerBot_Crawler_Beta_2.0_(_http://www.ScreenerBot.com) 20151003224816
+Phantom.js_bot 20151028004403
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 939 939
+From1 4 4
+From2 0 0
+From3 102 102
+From4 227 227
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 18
+http://yandex.ru/clck/jsredir 64 64
+https://www.google.ru 7 7
+http://yandex.ru 7 7
+http://yandex.ru/search/touch/ 3 3
+http://csgo-cash.com/nghnghn/ 3 3
+http://www.google.com 3 3
+http://maps.2gis.ru 3 3
+http://regidium.ru 2 2
+http://pizza-imperia.com 1 1
+http://whois.domaintools.com/polisp.ru 1 1
+http://clck.yandex.ru/jsredir 1 1
+http://link.2gis.ru/3D397063/grym/20151001/moscow/f8b0a14b002270 1 1
+http://hundejo.com 1 1
+http://vzarabotok.info 1 1
+http://www.bgm-buh.ru 1 1
+http://burger-imperia.com 1 1
+https://yandex.ru/touchsearch 1 1
+http://go.mail.ru/search 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 7 1426
+302 45 0
+206 1 49340
+404 1616 91725
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 150
+/news/fckeditor/editor/fckeditor.html 1 -
+/assets/index.html 1 -
+/admin.php 5 http://polisp.ru/admin.php
+/Editor/assetmanager/assetmanager.asp 1 -
+/admin/editor/assetmanager/assetmanager.asp 1 -
+/RTE_popup_file_atch.asp 1 -
+/img/logo/4@2x.jpg 55 http://polisp.ru/medicine.html
+/img/logo/8@2x.jpg 36 http://polisp.ru/medicine.html
+/images/man3@2x.png 22 http://polisp.ru/
+/fckeditor/fckeditor.js 1 http://www.polisp.ru
+/CMS/RTE_popup_file_atch.asp 1 -
+/images/man4@2x.png 22 http://polisp.ru/
+/packages/portal/includes/js/editor/editor/assetmanager/assetmanager.php 1 -
+/blog 2 -
+/admin/login 1 -
+//license.php 1 -
+/admin/includes/rte/editor/fckeditor.html 1 -
+/innovaeditor/assetmanager/assetmanager.php 1 -
+/editor/assetmanager/assetmanager.php 1 -
+/admin/editor/fckeditor.html 1 -
+/fckeditor1/editor/fckeditor.html 1 -
+/admin/RTE_popup_file_atch.asp 1 -
+/img/logo/9@2x.jpg 36 http://polisp.ru/medicine.html
+/Administrator/fckeditor/fckeditor.js 1 http://www.polisp.ru
+/_fckeditor/fckeditor.js 1 http://www.polisp.ru
+/admin/assetmanager/assetmanager.asp 1 -
+/manage/editor/fckeditor.html 1 -
+/download/FileZilla.xml 1 -
+/js/api.js 1 -
+/edit/editor/fckeditor.html 1 -
+/img/logo/5@2x.jpg 54 http://polisp.ru/medicine.html
+/includes/RTE/RTE_popup_file_atch.asp 1 -
+/img/logo/3@2x.jpg 55 http://polisp.ru/medicine.html
+/dump.sql 1 http://polisp.ru/dump.sql
+/FCKeditor/editor/fckeditor.html 1 -
+/images/man2@2x.png 22 http://polisp.ru/
+/administrator/ 4 http://polisp.ru/administrator/
+/script/fckeditor/editor/fckeditor.html 1 -
+/wp-login.php 11 http://polisp.ru/wp-login.php
+/img/logo/16@2x.jpg 55 http://polisp.ru/medicine.html
+/t1e2s3t4p5a6g7e8 1 http://yandex.ru
+/common/fckeditor/editor/fckeditor.html 1 -
+/Manage/Include/fckeditor/editor/fckeditor.html 1 -
+/system/fckeditor/editor/fckeditor.html 1 -
+/img/logo/13@2x.jpg 55 http://polisp.ru/medicine.html
+/img/logo/1@2x.jpg 93 http://polisp.ru/medicine.html
+/WebAdmin/FCKeditor/editor/fckeditor.html 1 -
+/FreeASPUpload/uploadTester.asp 1 -
+/admin/rte/RTE_popup_file_atch.asp 1 -
+/images/metro-yel@2x.png 57 http://polisp.ru/medicine.html
+/controls/fckeditor/editor/fckeditor.html 1 -
+/inv/assetmanager/assetmanager.php 1 -
+/admin/fck/editor/fckeditor.html 1 -
+/admin/fckeditor/editor/fckeditor.html 1 -
+/js/fckeditor/fckeditor.js 1 http://www.polisp.ru
+/checkout/ 1 -
+/admin/system/editor/fckeditor.html 1 -
+/license.php 2 -
+/assetmanager/assetmanager.php 1 -
+/admin/uploadTester.asp 1 -
+/cms/fckeditor/editor/fckeditor.html 1 -
+/FileZillaPortable/Data/settings/filezilla.xml 1 -
+/admin/fckeditor/fckeditor.js 1 http://www.polisp.ru
+/forum/admin/ 1 -
+/uploadTester.asp 1 -
+/editor/editor/fckeditor.html 1 -
+/administrator/index.php 3 -
+/images/man6@2x.png 22 http://polisp.ru/
+/administrator/fckeditor/editor/fckeditor.html 1 -
+/editors/fckeditor/editor/fckeditor.html 1 -
+/bitrix/admin/ 5 -
+/images/man5@2x.png 21 http://polisp.ru/
+/news/ 1 -
+/dtp_files/index.xml 1 -
+/javascripts/fckeditor/editor/fckeditor.html 1 -
+/robots.txt 223 -
+/includes/fckeditor/editor/fckeditor.html 1 -
+/user 1 -
+/intranet/fckeditor/editor/fckeditor.html 1 -
+/Uploads/uploadTester.asp 1 -
+/upload/uploadTester.asp 1 -
+/hostcmsfiles/main.js 1 -
+/wp-content/plugins/revslider/js/rev_admin.js 3 -
+/includes/init.php 1 -
+/js/admin.js 1 -
+/talk/admin/ 1 -
+/index.php/admin/ 4 http://polisp.ru/index.php/admin/
+/m/ 4 -
+/scripts/fckeditor/editor/fckeditor.html 1 -
+/wordpress 1 -
+/outils/fckeditor/editor/fckeditor.html 1 -
+/forums/admin/ 1 -
+/registration/ 1 -
+/rte/rte_popup_file_atch.asp 1 -
+/panel/FCKeditor/editor/fckeditor.html 1 -
+/images/man@2x.png 22 http://polisp.ru/
+/images/metro-s@2x.png 57 http://polisp.ru/medicine.html
+/mobile/ 1 -
+/admin/view/javascript/fckeditor/editor/fckeditor.html 1 -
+/admin/assetmanager/assetmanager.php 1 -
+/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/editor/fckeditor.html 1 -
+/images/metro@2x.png 57 http://polisp.ru/medicine.html
+/scripts/init.js 1 -
+/ASPupload/uploadTester.asp 1 -
+/include/fckeditor/editor/fckeditor.html 1 -
+/manager/scripts/assetmanager/assetmanager.asp 1 -
+/admin/editor/fckeditor.js 1 http://www.polisp.ru
+/img/logo/12@2x.jpg 35 http://polisp.ru/medicine.html
+/typo3/border.html 1 -
+/img/logo/10@2x.jpg 36 http://polisp.ru/medicine.html
+/cms/lang/ru_utf8/css/sbIndex.css 1 -
+/editor/fckeditor.js 1 http://www.polisp.ru
+/manage/fckeditor/editor/fckeditor.html 1 -
+/admin/ 1 -
+/blog/FCKeditor/editor/fckeditor.html 1 -
+/images/metro-z@2x.png 57 http://polisp.ru/medicine.html
+/img/logo/15@2x.jpg 55 http://polisp.ru/medicine.html
+/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/inc/fckeditor/editor/fckeditor.html 1 -
+/site/fckeditor/editor/fckeditor.html 1 -
+/index.php/component/users/ 1 POLISP.ru/index.php/component/users/
+/admin/editor/assetmanager/assetmanager.php 1 -
+/img/logo/14@2x.jpg 54 http://polisp.ru/medicine.html
+/include/ajax/textPreview.php 1 -
+/js/easy.php 1 -
+/Administrator/FCKeditor/fckeditor.js 1 http://www.polisp.ru
+/images/logo@2x.png 37 http://polisp.ru/medicine.html
+/cms/assetmanager/assetmanager.php 1 -
+/polisp1_files/msk2.png 2 http://xn--b1agaptnem0g.xn--p1ai/tagcloud/rabota-v-rosgosstrahe-v-moskve.html
+/img/logo/2@2x.jpg 93 http://polisp.ru/medicine.html
+/public/fckeditor/editor/fckeditor.html 1 -
+/common/fckeditor/fckeditor.js 1 http://www.polisp.ru
+/img/logo/6@2x.jpg 55 http://polisp.ru/medicine.html
+/scripts/assetmanager/assetmanager.asp 1 -
+/cms/admin/index.php 1 -
+/modules/fckeditor/editor/fckeditor.html 1 -
+/FileZilla.xml 1 -
+/public/js/fckeditor/editor/fckeditor.html 1 -
+/community/admin/ 1 -
+/include/editor/fckeditor.html 1 -
+/img/logo/7@2x.jpg 36 http://polisp.ru/medicine.html
+/wp-content/uploads/gravity_forms/ 1 -
+/img/logo/11@2x.jpg 36 http://polisp.ru/medicine.html
+/index.php 1 -
+/webmanage/fckeditor/editor/fckeditor.html 1 -
+/fck/editor/fckeditor.html 1 -
+/apple-app-site-association 3 -
+/assetmanager/assetmanager.asp 1 -
+/phpshop/admpanel/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 334
+213.180.206.196 83 83 4095220 20151031232548
+37.9.118.28 83 83 4095220 20151031232012
+95.108.129.196 82 82 4045880 20151031175608
+178.154.224.114 58 58 2861720 20151031194241
+195.182.94.10 45 45 2220300 20151029184645
+89.218.186.82 42 42 2072280 20151028141558
+109.234.156.66 21 21 1036140 20151031040428
+207.46.13.127 18 18 827658 20151029115225
+188.32.226.236 17 17 655452 20151016233720
+213.180.206.205 16 16 789440 20151005042602
+66.249.78.187 6 6 148020 20151017033905
+5.143.231.14 1 1 0 20151015093548
+93.191.11.232 1 1 31332 20151001165110
+176.31.24.29 1 1 49340 20151011182300
+176.195.254.213 2 2 66143 20151001152942
+178.252.103.51 1 1 49340 20151005222725
+176.56.0.27 1 1 49340 20151008114157
+5.9.86.138 1 1 49340 20151028055728
+176.193.120.96 1 1 49340 20151028142608
+157.55.39.53 6 6 321801 20151005183336
+45.55.49.36 1 1 49340 20151009224636
+162.210.196.97 2 2 98680 20151014070438
+94.181.179.173 1 1 49340 20151013144509
+46.4.147.199 4 4 197360 20151031174647
+217.69.133.169 1 1 49340 20151015094225
+188.32.71.147 2 2 66513 20151001155920
+37.187.129.166 1 1 49340 20151001071740
+92.38.137.194 2 2 72370 20151002095939
+5.19.244.15 2 2 93772 20151004155003
+128.75.6.127 1 1 75101 20151028142359
+5.143.231.41 2 2 0 20151015182934
+94.242.246.24 1 1 49340 20151005011217
+66.249.67.55 2 2 98680 20151030012644
+54.90.27.31 1 1 0 20151005180607
+178.154.243.94 1 1 49340 20151030000936
+93.80.164.147 2 2 66143 20151028005056
+5.206.72.190 2 2 93772 20151008100122
+193.201.227.143 2 2 49408 20151002094357
+95.167.189.85 4 4 0 20151005142214
+188.64.175.211 2 2 49408 20151007122644
+188.231.197.4 1 1 49340 20151007202154
+94.29.39.117 1 1 29163 20151028144219
+2a02:2168:846:85ae::1 3 3 86507 20151011201626
+66.249.78.148 4 4 197360 20151015043707
+5.45.254.225 4 4 223121 20151012141423
+207.46.13.153 2 2 49340 20151029053041
+198.245.49.180 4 4 109615 20151011040434
+157.55.39.199 2 2 202148 20151004171719
+104.236.82.54 9 9 339642 20151005005645
+95.167.189.91 1 1 0 20151009232657
+95.167.189.75 3 3 0 20151006083835
+37.204.199.123 1 1 49340 20151006124442
+195.16.111.187 2 2 75764 20151014111434
+46.173.5.126 1 1 28756 20151011121631
+37.140.141.9 4 4 179352 20151015183346
+84.51.84.74 1 1 49340 20151028133537
+46.242.79.234 1 1 29163 20151027220434
+66.249.67.218 3 3 148020 20151030002002
+178.140.96.138 2 2 87545 20151006151143
+5.166.137.48 1 1 27938 20151027220433
+94.181.180.194 4 4 197360 20151028035111
+178.140.84.243 2 2 69537 20151028005055
+89.208.147.138 2 2 98680 20151014152720
+88.198.180.41 9 9 339642 20151014232309
+46.147.84.253 1 1 49340 20151006180938
+146.185.239.200 1 1 49340 20151006212304
+157.55.39.9 1 1 49340 20151009133059
+192.99.2.27 2 2 98680 20151011081527
+95.167.189.100 1 1 0 20151008170459
+162.248.246.244 1 1 49340 20151006032858
+176.193.129.201 2 2 87545 20151006151034
+83.139.170.17 1 1 49340 20151016184856
+66.249.69.30 1 1 49340 20151004010248
+5.143.231.27 2 2 0 20151016125530
+101.226.168.248 1 1 49340 20151016063021
+54.91.25.0 1 1 49340 20151029093112
+136.243.5.215 12 12 592080 20151015210105
+5.255.253.195 9 9 451813 20151030003819
+95.167.189.78 3 3 0 20151009025400
+182.118.21.205 1 1 49340 20151030044148
+157.55.39.27 2 2 29163 20151002000554
+46.146.95.151 4 4 158768 20151004055147
+212.193.117.227 3 3 148020 20151029231613
+68.180.230.172 7 7 254640 20151013054206
+95.167.189.98 4 4 0 20151010142232
+95.167.189.70 2 2 0 20151009161528
+91.215.155.152 2 2 98680 20151009121908
+46.188.45.188 1 1 49340 20151014142352
+176.195.66.237 2 2 87545 20151006151102
+37.229.92.203 2 2 77278 20151003165353
+5.143.231.44 1 1 0 20151027125012
+95.108.158.162 3 3 127843 20151015004433
+146.0.72.170 1 1 49340 20151007215339
+5.143.231.23 1 1 0 20151016061655
+157.55.39.127 1 1 49340 20151012180700
+5.9.139.248 2 2 98680 20151031153106
+46.73.169.188 2 2 87545 20151001154215
+198.27.82.152 8 8 219230 20151030122928
+66.249.67.202 3 3 148020 20151028105059
+91.144.143.133 1 1 49340 20151011091904
+2.92.15.125 7 7 290970 20151001115552
+131.253.25.140 1 1 80652 20151029032645
+91.221.109.101 1 1 49340 20151004012859
+148.251.223.21 9 9 339642 20151011171524
+213.87.159.76 2 2 93772 20151003124220
+5.143.231.15 1 1 0 20151029144359
+208.115.113.88 2 2 98680 20151014022047
+188.255.20.251 1 1 49340 20151015202840
+62.212.73.49 1 1 49340 20151002183532
+95.167.189.101 3 3 0 20151005232846
+62.210.90.118 15 15 740100 20151009003034
+176.195.154.49 1 1 28308 20151027220431
+176.9.50.43 1 1 49340 20151015192414
+79.165.228.112 2 2 93772 20151014075147
+37.140.188.106 5 5 199716 20151028001939
+157.55.39.0 2 2 98680 20151031125905
+89.184.7.34 1 1 49340 20151006214640
+46.229.170.197 3 3 148020 20151027154146
+95.139.215.215 2 2 98680 20151013112227
+5.255.253.179 2 2 98680 20151028005105
+77.37.222.57 1 1 49340 20151028143230
+188.143.232.70 1 1 49340 20151016132750
+178.238.46.23 4 4 187544 20151028004403
+54.237.11.157 1 1 0 20151002042929
+178.165.39.32 2 2 78096 20151015174156
+178.255.215.94 5 5 98680 20151030104041
+136.243.73.82 1 1 49340 20151031003646
+176.77.77.248 2 2 93772 20151002095214
+178.205.220.57 1 1 28756 20151004232933
+93.158.178.216 5 5 228692 20151028041334
+117.78.13.29 1 1 49340 20151016222733
+23.101.61.176 1 1 20364 20151009174535
+176.99.7.153 2 2 98680 20151006082146
+188.32.249.150 4 4 156436 20151029154240
+176.14.177.42 5 5 186706 20151004192734
+176.193.107.207 1 1 31332 20151027220433
+76.113.4.16 1 1 75101 20151006204707
+40.124.9.65 1 1 49340 20151028213904
+2.92.187.222 1 1 28308 20151028141908
+78.46.145.195 10 10 339642 20151003224816
+5.255.253.32 1 1 49340 20151029082224
+62.210.152.89 1 1 75101 20151015193808
+46.242.94.14 1 1 75101 20151027220432
+128.72.49.155 1 1 27938 20151011043335
+195.2.198.80 2 2 93772 20151002124505
+89.110.18.135 1 1 49340 20151007225437
+31.202.247.235 1 1 49340 20151015224431
+83.149.9.205 3 3 121710 20151013054306
+213.33.207.238 1 1 49340 20151001043219
+85.21.232.154 3 3 121710 20151014173752
+188.165.15.97 3 3 98012 20151004121541
+157.55.2.160 1 1 80652 20151012190850
+176.107.245.24 3 3 122528 20151030223141
+66.249.69.46 1 1 49340 20151006212552
+93.80.187.198 1 1 49340 20151015202839
+62.210.148.247 2 2 98680 20151004062509
+207.46.13.87 7 7 345380 20151003003806
+66.249.67.204 1 1 49340 20151009125932
+31.173.84.136 2 2 75764 20151012155102
+207.46.13.51 8 8 345380 20151002021941
+66.249.78.173 10 10 381889 20151031224715
+188.32.178.143 1 1 49340 20151028142607
+185.74.252.10 1 1 49340 20151029185509
+195.154.187.115 4 4 109615 20151028110159
+95.167.189.80 2 2 0 20151009125031
+5.167.187.166 1 1 49340 20151009134439
+95.221.236.165 1 1 31332 20151001151513
+65.55.210.58 1 1 80652 20151007130946
+91.66.21.154 16 16 789440 20151001110538
+66.249.67.210 3 3 148020 20151027232946
+217.69.133.225 3 3 148020 20151029222726
+82.204.251.34 8 8 306796 20151012142141
+176.9.124.40 1 1 49340 20151007001745
+95.167.189.95 1 1 0 20151009071440
+66.249.78.155 5 5 246700 20151016110207
+207.46.13.8 1 1 0 20151006095604
+109.187.16.50 4 4 153412 20151006143808
+104.236.110.194 9 9 339642 20151011070911
+5.255.253.188 1 1 49340 20151029154604
+95.163.107.73 1 1 31332 20151008115554
+88.192.244.13 4 4 109615 20151006231620
+45.55.133.240 1 1 49340 20151011023713
+37.140.141.38 1 1 49340 20151003151600
+176.14.88.27 1 1 31332 20151011043335
+5.255.253.117 5 5 246700 20151015183349
+207.46.13.43 1 1 49340 20151030210926
+157.55.39.225 1 1 0 20151027105041
+37.110.60.38 2 2 93772 20151005123608
+93.81.77.43 1 1 38205 20151028143230
+66.249.69.38 1 1 49340 20151003203817
+183.57.153.70 1 1 49340 20151027204745
+207.46.13.52 1 1 49340 20151029022531
+69.167.175.136 9 9 444060 20151006082924
+157.55.39.218 7 7 345380 20151011213037
+198.27.82.146 4 4 197360 20151015113607
+5.255.253.79 10 10 453990 20151028183708
+66.249.78.141 7 7 345380 20151031210348
+95.221.249.92 2 2 66143 20151003135309
+91.224.140.213 5 5 246700 20151016144242
+185.79.100.64 2 2 93772 20151002080018
+185.79.100.141 2 2 93772 20151013162350
+199.127.226.150 1 1 49340 20151001111104
+5.143.231.43 1 1 0 20151016162730
+37.1.202.50 1 1 49340 20151015022605
+66.249.78.180 4 4 127843 20151012130445
+188.244.37.234 1 1 49340 20151006115059
+101.226.168.253 1 1 49340 20151013163701
+95.78.10.124 1 1 49340 20151008064614
+185.79.100.76 2 2 75764 20151006173925
+95.108.158.145 3 3 148020 20151014183346
+66.249.67.212 1 1 49340 20151009144329
+101.226.167.217 1 1 49340 20151003045637
+91.204.131.224 1 1 31332 20151028192445
+95.108.132.165 1 1 49340 20151016090058
+5.143.231.19 1 1 0 20151029005648
+95.221.241.13 1 1 38205 20151001151516
+31.173.85.36 3 3 143112 20151011092758
+212.14.171.94 5 5 186706 20151009171655
+95.167.189.77 4 4 0 20151012102602
+40.114.47.0 1 1 49340 20151005065404
+37.190.54.30 2 2 93772 20151005161412
+188.165.15.36 5 5 204075 20151031162621
+188.165.15.198 2 2 124441 20151013093001
+144.76.119.75 1 1 0 20151030011429
+107.189.60.71 2 2 129992 20151001091402
+193.41.79.7 2 2 98680 20151014144141
+5.255.253.172 1 1 49340 20151007200932
+37.140.188.89 1 1 49340 20151002021331
+94.143.58.45 2 2 72370 20151015060729
+95.46.124.73 1 1 49340 20151006082141
+37.190.48.134 2 2 75764 20151028000613
+109.173.23.39 1 1 49340 20151028142607
+176.14.133.9 2 2 69704 20151030064920
+207.46.13.89 1 1 27938 20151007085422
+83.220.239.124 2 2 93772 20151027190656
+95.167.189.103 1 1 0 20151006111730
+176.193.109.46 2 2 113306 20151028005048
+188.244.45.91 1 1 75101 20151011043332
+157.55.39.75 4 4 98680 20151008162524
+176.193.178.117 2 2 98680 20151006124442
+93.73.141.135 1 1 49340 20151001155512
+5.143.231.32 1 1 0 20151029224526
+213.24.127.203 3 3 114136 20151005155457
+66.249.67.97 1 1 49340 20151027155431
+85.115.248.251 2 2 93772 20151011162521
+5.255.253.13 9 9 379854 20151028183659
+176.14.190.66 1 1 49340 20151006124441
+109.86.83.47 1 1 49340 20151012221157
+192.99.107.210 1 1 49340 20151011185624
+95.71.52.232 1 1 49340 20151016090956
+109.188.124.3 2 2 93772 20151013151931
+5.143.231.16 2 2 0 20151031021820
+37.145.105.7 1 1 49340 20151011043332
+46.188.72.34 1 1 49340 20151028143029
+45.55.134.21 1 1 49340 20151003050124
+72.175.83.98 2 2 98680 20151013051518
+89.221.52.115 3 3 114136 20151030113810
+95.163.107.74 1 1 31332 20151008112724
+178.154.243.103 5 5 189282 20151030003810
+2a02:6b8:0:f09::5c 10 10 493400 20151030165837
+182.118.20.173 1 1 49340 20151007042141
+178.154.243.95 2 2 80672 20151006174651
+178.140.232.9 1 1 49340 20151015193808
+86.110.226.29 2 2 93772 20151014000413
+212.44.135.226 1 1 49340 20151006183637
+94.45.81.87 1 1 49340 20151013031901
+95.167.189.106 1 1 0 20151014062903
+109.226.203.69 1 1 49340 20151006201727
+178.21.11.42 3 3 148020 20151030021327
+176.15.97.221 1 1 31332 20151028144501
+37.140.141.25 1 1 31332 20151012142815
+66.249.75.218 1 1 49340 20151006084321
+130.193.48.21 10 10 526914 20151030131017
+2.93.0.77 5 5 186706 20151010110035
+37.146.66.178 1 1 49340 20151028142607
+83.220.236.120 2 2 93772 20151007153726
+207.46.13.69 1 1 49340 20151013072804
+178.124.62.55 1 1 49340 20151030161621
+95.46.123.157 1 1 49340 20151006082419
+188.16.38.242 1 1 49340 20151015210450
+91.77.29.81 2 2 98680 20151016100853
+95.25.228.210 3 3 125104 20151014081819
+178.62.231.171 1 1 49340 20151007120626
+157.55.39.250 1 1 0 20151031030018
+95.167.189.82 1 1 0 20151014093427
+207.46.13.2 3 3 80672 20151007085432
+217.69.133.220 1 1 49340 20151028051800
+27.159.235.58 1 1 49340 20151011044908
+176.195.29.34 1 1 28308 20151028005046
+176.77.124.236 1 1 49340 20151006124443
+46.73.203.110 4 4 175090 20151006142707
+46.4.32.75 16 16 789440 20151005214806
+142.4.218.156 11 11 438322 20151012144413
+37.140.188.81 1 1 49340 20151029154600
+95.79.11.194 2 2 98680 20151015202841
+83.220.239.120 7 7 330656 20151031165201
+157.55.39.32 10 10 519161 20151005183338
+2a02:6b8:0:1602::54 6 6 296040 20151015052914
+157.55.39.214 1 1 49340 20151011213058
+95.167.189.93 1 1 0 20151008041400
+82.146.38.251 1 1 75101 20151010004643
+176.193.221.7 2 2 87545 20151006151144
+69.30.213.162 4 4 109615 20151002093316
+82.200.40.20 2 2 57512 20151029134615
+188.186.60.113 3 3 119044 20151028223914
+95.167.189.76 1 1 0 20151005122655
+62.210.152.87 1 1 75101 20151004062902
+79.165.16.227 1 1 49340 20151015202840
+95.71.181.163 1 1 49340 20151008141809
+66.249.67.196 1 1 49340 20151009111827
+66.249.67.61 2 2 98680 20151028193144
+5.143.231.4 1 1 0 20151016082005
+207.46.13.135 1 1 0 20151016000010
+199.30.25.115 1 1 80652 20151004181637
+95.25.31.98 2 2 67368 20151028005055
+5.255.253.143 3 3 106034 20151015084724
+95.167.189.79 1 1 0 20151010172744
+46.17.203.253 1 1 49340 20151031230923
+5.143.231.35 1 1 0 20151030012918
+5.228.76.244 1 1 49340 20151028142607
+95.28.8.121 1 1 49340 20151015202830
+37.140.188.62 2 2 98680 20151015084721
+5.45.254.226 1 1 49340 20151031130852
+37.140.141.12 1 1 49340 20151006150004
+66.249.64.18 2 2 98680 20151014051827
+93.80.136.251 3 3 121710 20151027182634
+95.108.132.163 6 6 321801 20151030003830
+95.28.10.161 1 1 28308 20151011043337
+216.145.17.190 1 1 49340 20151008211816
+95.26.124.95 2 2 87545 20151028140401
+95.167.189.69 2 2 0 20151009111330
+31.207.159.79 1 1 49340 20151008072209
+157.55.39.253 6 6 321801 20151001112312
+5.143.231.11 1 1 0 20151015073449
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20151001 91 91 4270074 43
+20151002 45 45 1923392 35
+20151003 67 67 2973093 43
+20151004 48 48 2469987 36
+20151005 99 99 4127789 47
+20151006 83 83 3437494 55
+20151007 44 44 1960662 39
+20151008 42 42 1789833 39
+20151009 72 72 2814623 46
+20151010 34 34 1544647 30
+20151011 78 78 3334426 49
+20151012 65 65 2935629 38
+20151013 57 57 2655623 45
+20151014 70 70 3009732 43
+20151015 80 80 3692691 55
+20151016 42 42 1684576 37
+20151017 8 8 394720 8
+20151027 42 42 1858548 32
+20151028 71 71 3041651 57
+20151029 48 48 2021500 40
+20151030 53 53 2327925 41
+20151031 33 33 1554752 32
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 8
+15mn-30mn 4
+2mn-5mn 5
+30s-2mn 8
+0s-30s 862
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 979 45442140 768 715
+/autopolis.html 58 1785924 39 27
+/fonts/fontawesome-webfontba72.woff 45 1999440 0 33
+/medicine.html 33 866078 17 21
+/sluchai.html 31 2102828 20 20
+/imushestvo.html 29 747656 9 16
+/comission.html 26 612423 12 11
+/contact.html 25 468372 6 11
+/polis.html 19 424620 11 10
+/fonts/fontawesome-webfontd41d.eot 18 687690 2 17
+/fonts/fontawesome-webfontba72.svg 1 202148 1 1
+/cgi-bin/sendmail2.php 2 136 0 2
+/fonts/fontawesome-webfontba72.ttf 6 483912 5 6
+END_SIDER
